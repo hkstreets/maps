@@ -1,0 +1,383 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056448,22.484538 ]
+    },
+    "properties": {
+    "name":"Angel Island Avenue 安島徑",
+    "place":"Angel Island",
+    "whatplace":"island",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/angelisland.jpg",
+    "title":"<strong>Angel Island Avenue 安島徑</strong>",
+    "description":"<p>Named after Angel Island, island in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/angelisland.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056887,22.487007 ]
+    },
+    "properties": {
+    "name":"Carmel Avenue 卡米爾徑",
+    "place":"Carmel",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/carmel.jpeg",
+    "title":"<strong>Carmel Avenue 卡米爾徑</strong>",
+    "description":"<p>Named after Carmel, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/carmel.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056501,22.483271 ]
+    },
+    "properties": {
+    "name":"Catalina Avenue 卡連拿徑",
+    "place":"Catalina",
+    "whatplace":"island",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/catalina.jpeg",
+    "title":"<strong>Catalina Avenue 卡連拿徑</strong>",
+    "description":"<p>Named after Catalina, island in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/catalina.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.055942,22.487222 ]
+    },
+    "properties": {
+    "name":"Coronado Avenue 嘉拿多徑",
+    "place":"Coronado",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/coronado.jpeg",
+    "title":"<strong>Coronado Avenue 嘉拿多徑</strong>",
+    "description":"<p>Named after Coronado, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/coronado.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.055921,22.48809 ]
+    },
+    "properties": {
+    "name":"Marin Avenue 麥蘭徑",
+    "place":"Marin",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/marin.jpeg",
+    "title":"<strong>Marin Avenue 麥蘭徑</strong>",
+    "description":"<p>Named after Marin, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/marin.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056358,22.48286 ]
+    },
+    "properties": {
+    "name":"Melrose Avenue 米路斯徑",
+    "place":"Melrose",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/melrose.jpeg",
+    "title":"<strong>Melrose Avenue 米路斯徑</strong>",
+    "description":"<p>Named after Melrose, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/melrose.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.057022,22.487862 ]
+    },
+    "properties": {
+    "name":"Monterey Avenue 蒙特萊徑",
+    "place":"Monterey",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/monterey.jpeg",
+    "title":"<strong>Monterey Avenue 蒙特萊徑</strong>",
+    "description":"<p>Named after Monterey, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/monterey.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.05219,22.48417 ]
+    },
+    "properties": {
+    "name":"Monterey Drive 花園徑",
+    "place":"Monterey",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/monterey.jpeg",
+    "title":"<strong>Monterey Drive 花園徑</strong>",
+    "description":"<p>Named after Monterey, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/monterey.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.055797,22.487688 ]
+    },
+    "properties": {
+    "name":"Napa Avenue 納柏徑",
+    "place":"Napa",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/napa.jpeg",
+    "title":"<strong>Napa Avenue 納柏徑</strong>",
+    "description":"<p>Named after Napa, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/napa.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0517679,22.48734533 ]
+    },
+    "properties": {
+    "name":"Palm Springs Boulevard 加州花園大道",
+    "place":"Palm Springs",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/palmsprings.jpeg",
+    "title":"<strong>Palm Springs Boulevard 加州花園大道</strong>",
+    "description":"<p>Named after Palm Springs, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/palmsprings.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056454,22.484128 ]
+    },
+    "properties": {
+    "name":"Pasadena Avenue 芭丹娜徑",
+    "place":"Pasadena",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/pasadena.jpg",
+    "title":"<strong>Pasadena Avenue 芭丹娜徑</strong>",
+    "description":"<p>Named after Pasadena, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/pasadena.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056531,22.483703 ]
+    },
+    "properties": {
+    "name":"Sacramento Avenue 莎文杜徑",
+    "place":"Sacramento",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sacramento.jpeg",
+    "title":"<strong>Sacramento Avenue 莎文杜徑</strong>",
+    "description":"<p>Named after Sacramento, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sacramento.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.055712,22.486794 ]
+    },
+    "properties": {
+    "name":"San Diego Avenue 聖地牙哥徑",
+    "place":"San Diego",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sandiego.jpeg",
+    "title":"<strong>San Diego Avenue 聖地牙哥徑</strong>",
+    "description":"<p>Named after San Diego, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sandiego.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056386,22.485399 ]
+    },
+    "properties": {
+    "name":"San Francisco Avenue 聖梵哥徑",
+    "place":"San Francisco",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sanfrancisco.jpg",
+    "title":"<strong>San Francisco Avenue 聖梵哥徑</strong>",
+    "description":"<p>Named after San Francisco, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sanfrancisco.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.174922,22.319128 ]
+    },
+    "properties": {
+    "name":"San Francisco Path 舊金山徑",
+    "place":"San Francisco",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sanfrancisco.jpg",
+    "title":"<strong>San Francisco Path 舊金山徑</strong>",
+    "description":"<p>Named after San Francisco, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sanfrancisco.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056859,22.48654 ]
+    },
+    "properties": {
+    "name":"San Simeon Avenue 西蒙徑",
+    "place":"San Simeon",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sansimeon.jpeg",
+    "title":"<strong>San Simeon Avenue 西蒙徑</strong>",
+    "description":"<p>Named after San Simeon, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/sansimeon.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056431,22.48496 ]
+    },
+    "properties": {
+    "name":"Santa Barbara Avenue 聖巴拿徑",
+    "place":"Santa Barbara",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santabarbara.jpg",
+    "title":"<strong>Santa Barbara Avenue 聖巴拿徑</strong>",
+    "description":"<p>Named after Santa Barbara, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santabarbara.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.055739,22.486362 ]
+    },
+    "properties": {
+    "name":"Santa Clara Avenue 聖哥拉徑",
+    "place":"Santa Clara",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santaclara.jpg",
+    "title":"<strong>Santa Clara Avenue 聖哥拉徑</strong>",
+    "description":"<p>Named after Santa Clara, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santaclara.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056448,22.482379 ]
+    },
+    "properties": {
+    "name":"Santa Maria Avenue 瑪利亞徑",
+    "place":"Santa Maria",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santamaria.jpg",
+    "title":"<strong>Santa Maria Avenue 瑪利亞徑</strong>",
+    "description":"<p>Named after Santa Maria, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santamaria.jpg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.05669,22.48852 ]
+    },
+    "properties": {
+    "name":"Santa Monica Avenue 蒙尼卡徑",
+    "place":"Santa Monica",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santamonica.jpeg",
+    "title":"<strong>Santa Monica Avenue 蒙尼卡徑</strong>",
+    "description":"<p>Named after Santa Monica, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/santamonica.jpeg'>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056268,22.488961 ]
+    },
+    "properties": {
+    "name":"Ventura Avenue 溫黛娜徑",
+    "place":"Ventura",
+    "whatplace":"city",
+    "country":"USA",
+    "region":"US",
+    "image":"https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/ventura.jpeg",
+    "title":"<strong>Ventura Avenue 溫黛娜徑</strong>",
+    "description":"<p>Named after Ventura, city in USA</p>",
+    "imagelink":"<img width='250px' src='https://raw.githubusercontent.com/Pangdi311/hkstreets/main/places/ventura.jpeg'>"
+    }
+  }
+]
+}
