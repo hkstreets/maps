@@ -3,3 +3,6 @@
 
 # IDE
 .idea
+
+# Rendered HTML files
+/projects/language*/*.html
