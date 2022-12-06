@@ -6,3 +6,6 @@
 
 # Rendered HTML files
 /projects/language*/*.html
+
+# Lock files
+/.hugo_build.lock
