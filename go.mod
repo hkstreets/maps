@@ -1,4 +1,4 @@
-module github.com/hkstreets/hkstreets
+module github.com/hkstreets/maps
 
 go 1.18
 
