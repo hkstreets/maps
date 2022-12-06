@@ -2,10 +2,10 @@ mapboxgl.accessToken = "pk.eyJ1IjoiZHBhbmczMTEiLCJhIjoiY2tidmNld2cyMDA5djJwbXYzZ
 
 const bounds = [
     [113.7, 22.18], // Southwest coordinates
-    [114.5, 22.57] // Northeast coordinates
+    [114.5, 22.57]  // Northeast coordinates
 ];
 
-const lineColors = ["#E58606", "#5D69B1", "#52BCA3", "#99C945","#CC61B0"];
+const lineColors = ["#E58606", "#5D69B1", "#52BCA3", "#99C945", "#CC61B0"];
 const layerNames = ["Chinese", "English", "European", "Others", "Mixed"];
 
 
@@ -32,13 +32,13 @@ const sources = {
         data:
             "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/eur.geojson"
     },
-  
+
     others: {
         type: "geojson",
-        data:            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/other.geojson"
+        data: "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/other.geojson"
     },
-  
-  mixed: {
+
+    mixed: {
         type: "geojson",
         data:
             "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/mixed.geojson"
@@ -168,7 +168,8 @@ map.on("load", () => {
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
         map.addSource(sourceName, source);
-    };
+    }
+    ;
 
     for (const [layerName, layer] of Object.entries(layers)) {
         map.addLayer(layer);
@@ -203,6 +204,7 @@ map.on("load", () => {
         //     map.getCanvas().style.cursor = "";
         //     popupCommon.remove();
         // });
-    }});
+    }
+});
 
-  map.addControl(new mapboxgl.NavigationControl());
+map.addControl(new mapboxgl.NavigationControl());
