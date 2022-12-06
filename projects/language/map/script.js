@@ -20,28 +20,28 @@ const map = new mapboxgl.Map({
 const sources = {
     chi: {
         type: "geojson",
-        data: "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/chi.geojson"
+        data: "data/chi.geojson"
     },
     eng: {
         type: "geojson",
         data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/eng.geojson"
+            "data/eng.geojson"
     },
     european: {
         type: "geojson",
         data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/eur.geojson"
+            "data/eur.geojson"
     },
 
     others: {
         type: "geojson",
-        data: "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/other.geojson"
+        data: "data/other.geojson"
     },
 
     mixed: {
         type: "geojson",
         data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/mixed.geojson"
+            "data/mixed.geojson"
     }
 
 
