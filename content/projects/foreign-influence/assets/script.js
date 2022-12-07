@@ -17,35 +17,6 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const sources = {
-    chi: {
-        type: "geojson",
-        data: "data/chi.geojson"
-    },
-    eng: {
-        type: "geojson",
-        data:
-            "data/eng.geojson"
-    },
-    european: {
-        type: "geojson",
-        data:
-            "data/eur.geojson"
-    },
-
-    others: {
-        type: "geojson",
-        data: "data/other.geojson"
-    },
-
-    mixed: {
-        type: "geojson",
-        data:
-            "data/mixed.geojson"
-    }
-
-
-}
 
 const layers = {
     chi: {
@@ -168,8 +139,7 @@ map.on("load", () => {
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
         map.addSource(sourceName, source);
-    }
-    ;
+    };
 
     for (const [layerName, layer] of Object.entries(layers)) {
         map.addLayer(layer);

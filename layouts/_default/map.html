@@ -3,12 +3,30 @@
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
     {{ block "customStyle" . }}
         {{ with .Resources.GetMatch "assets/styles.css" }}
-          <style>{{ .Content | safeCSS }}</style>
+          <link href="{{ .Permalink }}" rel="stylesheet">
         {{ end }}
     {{ end }}
     <!--  Map Elements  -->
     <div id="map"></div>
     <div class="map-overlay" id="legend"></div>
+
+    {{ block "customData" . }}
+    <!--  Load all GeoJSON files available from data/NAME.geojson and use NAME as a key in the sources
+        object to be accessible in the mapbox gl code. -->
+    <script>
+        const sources = {
+        {{ with .Resources.Match "data/*.geojson" }}
+        {{ range $links := . }}
+                {{ replaceRE "^data/([^.]+).*" "$1" .Name }} : {
+                   type: "geojson",
+                   data: {{ .Permalink }}
+               },
+            {{ end }}
+        {{ end }}
+        }
+    </script>
+    {{ end }}
+
 
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
     {{ block "customScript" . }}
