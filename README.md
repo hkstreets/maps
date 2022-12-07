@@ -6,6 +6,19 @@ Mapping projects by [Diana Pang](https://dianapang.net/)
 
 We use hugo as our static site generator.
 
+### Previewing the site
+
+To run a development server that live reloads
+
+```bash
+hugo server
+```
+
+Or if you want to be redirected automatically to the page with the latest change, run
+```bash
+hugo server --navigateToChanged
+```
+
 ### Installing theme updates 
 
 As new releases are posted, you can update the theme using Hugo. Simply run 
