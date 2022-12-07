@@ -3,8 +3,6 @@ body {
     padding: 0;
 }
 
-/**
-* on the page */
 #map {
     position: absolute;
     top: 0;
@@ -22,7 +20,7 @@ body {
     right: 0;
     background: #fff;
     margin-right: 20px;
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     overflow: auto;
     border-radius: 3px;
 }
@@ -31,8 +29,7 @@ body {
     padding: 10px;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
     line-height: 18px;
-    height:
-            72px;
+    height: 72px;
     margin-bottom: 40px;
     border-radius: 8px;
     width: 200px;
@@ -49,6 +46,7 @@ body {
     height: 10px;
     margin-right: 5px;
 }
+
 
 
 .mapboxgl-popup {

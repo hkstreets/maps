@@ -6,8 +6,12 @@ const bounds = [
 ];
 
 const lineColors = ["#8a3ffc", "#08bdba", "#bae6ff", "#ff7eb6"];
-const layerNames = ["Transliteration (Sound)", "Translation (Meaning)", "Miscellaneous", "Mixed (Sound + Meaning)"];
-
+const layerNames = [
+    "Transliteration (Sound)",
+    "Translation (Meaning)",
+    "Miscellaneous",
+    "Mixed (Sound + Meaning)"
+];
 
 const map = new mapboxgl.Map({
     container: "map",
@@ -17,32 +21,9 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const sources = {
-    sound: {
-        type: "geojson",
-        data: "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/sound.geojson"
-    },
-    meaning: {
-        type: "geojson",
-        data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/meaning.geojson"
-    },
-    mixed: {
-        type: "geojson",
-        data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/mixed-lang.geojson"
-    },
-    misc: {
-        type: "geojson",
-        data:
-            "https://raw.githubusercontent.com/Pangdi311/hkstreets/main/misc_new.geojson"
-    }
-
-}
-
 const layers = {
     sound: {
-        source: "sound",
+        source: "transliteration",
         id: "sound-layer",
         type: "line",
         layout: {
@@ -60,7 +41,7 @@ const layers = {
         }
     },
     meaning: {
-        source: "meaning",
+        source: "translation",
         id: "meaning-layer",
         type: "line",
         layout: {
@@ -143,7 +124,8 @@ map.on("load", () => {
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
         map.addSource(sourceName, source);
-    };
+    }
+    ;
 
     for (const [layerName, layer] of Object.entries(layers)) {
         map.addLayer(layer);
@@ -178,4 +160,5 @@ map.on("load", () => {
         //     map.getCanvas().style.cursor = "";
         //     popupCommon.remove();
         // });
-    }});
+    }
+});

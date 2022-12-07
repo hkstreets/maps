@@ -1,7 +1,9 @@
 ---
-title: Lost in Translation
-date: 2022-12-07T19:39:01+08:00
-draft: false
+title: "Lost in Translation"
+date: 2022-10-01T23:42:44+08:00
+draft: true
+layout: map
+noBaseStyles: true
 ---
 
 **A new mapping project.**
