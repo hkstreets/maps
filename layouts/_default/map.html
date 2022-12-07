@@ -14,16 +14,12 @@
     <!--  Load all GeoJSON files available from data/NAME.geojson and use NAME as a key in the sources
         object to be accessible in the mapbox gl code. -->
     <script>
-        const sources = {
-        {{ with .Resources.Match "data/*.geojson" }}
-        {{ range $links := . }}
-                {{ replaceRE "^data/([^.]+).*" "$1" .Name }} : {
-                   type: "geojson",
-                   data: {{ .Permalink }}
-               },
-            {{ end }}
-        {{ end }}
-        }
+    const sources = { {{ with .Resources.Match "data/*.geojson" }}{{ range $links := . }}
+        {{ replaceRE "^data/([^.]+).*" "$1" .Name }} : {
+           type: "geojson",
+           data: {{ .Permalink }}
+       },{{ end }}{{ end }}
+    }
     </script>
     {{ end }}
 

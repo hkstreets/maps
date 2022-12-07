@@ -17,7 +17,6 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-
 const layers = {
     chi: {
         source: "chi",
