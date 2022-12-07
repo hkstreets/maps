@@ -58,8 +58,8 @@ headline = "Mapping projects by Diana Pang"
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
-   { marker = { href = "https://8e89b3cf.hkstreets.pages.dev/projects/language/map/", text = "A street by any other Name" } },
-   { marker = { href = "https://8e89b3cf.hkstreets.pages.dev/projects/language/map/", text = "What's in a Street Name ?" } }
+#   { marker = { href = "https://8e89b3cf.hkstreets.pages.dev/projects/language/map/", text = "A street by any other Name" } },
+#   { marker = { href = "https://8e89b3cf.hkstreets.pages.dev/projects/language/map/", text = "What's in a Street Name ?" } }
   ]
 
 [module]
