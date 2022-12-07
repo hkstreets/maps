@@ -3,6 +3,14 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Streets of Hong Kong"
+canonifyURLs = true
+
+
+contentDir = 'content'
+dataDir = 'data'
+publishDir = 'public'
+
+
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true

@@ -19,6 +19,14 @@ Or if you want to be redirected automatically to the page with the latest change
 hugo server --navigateToChanged
 ```
 
+### Starting a new mapping project
+
+To start a new project, use hugo to generate the directory structure. In the below, replace `name-of-project` with the project identifier
+
+```bash
+hugo new --kind project-bundle projects/name-of-project
+```
+
 ### Installing theme updates 
 
 As new releases are posted, you can update the theme using Hugo. Simply run 
