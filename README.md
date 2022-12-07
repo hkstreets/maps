@@ -11,12 +11,13 @@ We use hugo as our static site generator.
 To run a development server that live reloads
 
 ```bash
-hugo server
+hugo server --buildDrafts
 ```
 
 Or if you want to be redirected automatically to the page with the latest change, run
+
 ```bash
-hugo server --navigateToChanged
+hugo server --navigateToChanged --buildDrafts
 ```
 
 ### Starting a new mapping project
