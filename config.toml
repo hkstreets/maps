@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Streets of Hong Kong"
-canonifyURLs = true
+canonifyURLs = false
 
 
 contentDir = 'content'
