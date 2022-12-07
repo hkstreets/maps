@@ -1,8 +1,9 @@
 # Build files
 /public
 
-# Ignore Temp files
+# Temp files
 .DS_Store
+/resources
 
 # IDE
 .idea
