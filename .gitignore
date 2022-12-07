@@ -1,3 +1,6 @@
+# Build files
+/public
+
 # Ignore Temp files
 .DS_Store
 
@@ -6,3 +9,6 @@
 
 # Rendered HTML files
 /projects/language*/*.html
+
+# Lock files
+/.hugo_build.lock
