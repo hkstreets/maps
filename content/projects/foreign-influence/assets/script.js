@@ -5,10 +5,6 @@ const bounds = [
     [114.5, 22.57]  // Northeast coordinates
 ];
 
-const lineColors = ["#E58606", "#5D69B1", "#52BCA3", "#99C945", "#CC61B0"];
-const layerNames = ["Chinese", "English", "European", "Others", "Mixed"];
-
-
 const map = new mapboxgl.Map({
     container: "map",
     style: "mapbox://styles/dpang311/ck21xo59h0cht1cmm2wjrmoki",
@@ -16,6 +12,9 @@ const map = new mapboxgl.Map({
     zoom: 12,
     maxBounds: bounds
 });
+
+const lineColors = ["#E58606", "#5D69B1", "#52BCA3", "#99C945", "#CC61B0"];
+const layerNames = ["Chinese", "English", "European", "Others", "Mixed"];
 
 const layers = {
     chi: {
@@ -151,8 +150,7 @@ map.on("load", () => {
     }
 
     const popupCommon = new mapboxgl.Popup({
-        // closeButton: false,
-        // closeOnClick: false,
+        closeButton: false,
         className: "popup"
     });
 
@@ -168,11 +166,6 @@ map.on("load", () => {
                 .setHTML(layer.getHTML(e))
                 .addTo(map);
         });
-
-        // map.on("mouseleave", `${layer.id}-invisible`, () => {
-        //     map.getCanvas().style.cursor = "";
-        //     popupCommon.remove();
-        // });
     }
 });
 
