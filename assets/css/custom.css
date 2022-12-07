@@ -1,4 +1,8 @@
-.link-marker {
+body {
+    background: rgb(17, 8, 8);
+}
+
+.link-projects {
     background: rgb(131, 58, 180);
     background: linear-gradient(
             90deg,
@@ -11,4 +15,8 @@
 .icon svg {
     height: 24px;
     width: 24px;
+}
+
+.my-8 {
+    margin-bottom: 8px;
 }

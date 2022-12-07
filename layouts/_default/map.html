@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <!--  Styles  -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    {{ block "customStyle" . }}
+        {{ with .Resources.GetMatch "assets/styles.css" }}
+          <style>{{ .Content | safeCSS }}</style>
+        {{ end }}
+    {{ end }}
+    <!--  Map Elements  -->
+    <div id="map"></div>
+    <div class="map-overlay" id="legend"></div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+    {{ block "customScript" . }}
+        {{ with .Resources.GetMatch "assets/script.js" }}
+          <script src="{{.Permalink}}"></script>
+        {{ end }}
+    {{ end }}
+{{ end }}
+
