@@ -5,14 +5,6 @@ const bounds = [
     [114.5, 22.57] // Northeast coordinates
 ];
 
-const lineColors = ["#8a3ffc", "#08bdba", "#bae6ff", "#ff7eb6"];
-const layerNames = [
-    "Transliteration (Sound)",
-    "Translation (Meaning)",
-    "Miscellaneous",
-    "Mixed (Sound + Meaning)"
-];
-
 const map = new mapboxgl.Map({
     container: "hkstreets-map",
     style: "mapbox://styles/dpang311/ck21xo59h0cht1cmm2wjrmoki",
@@ -20,6 +12,14 @@ const map = new mapboxgl.Map({
     zoom: 12,
     maxBounds: bounds
 });
+
+const lineColors = ["#8a3ffc", "#08bdba", "#bae6ff", "#ff7eb6"];
+const layerNames = [
+    "Transliteration (Sound)",
+    "Translation (Meaning)",
+    "Miscellaneous",
+    "Mixed (Sound + Meaning)"
+];
 
 const layers = {
     sound: {
@@ -117,15 +117,12 @@ const createLegend = () => {
 }
 
 map.on("load", () => {
-
     // create legend
     createLegend(layerNames)
-
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
         map.addSource(sourceName, source);
-    }
-    ;
+    };
 
     for (const [layerName, layer] of Object.entries(layers)) {
         map.addLayer(layer);
@@ -138,8 +135,7 @@ map.on("load", () => {
     }
 
     const popupCommon = new mapboxgl.Popup({
-        // closeButton: false,
-        // closeOnClick: false,
+        closeButton: false,
         className: "popup"
     });
 
@@ -147,18 +143,11 @@ map.on("load", () => {
         map.on("mouseenter", `${layer.id}-invisible`, (e) => {
             map.getCanvas().style.cursor = "";
             popupCommon.remove();
-
-            // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = "pointer";
             popupCommon
                 .setLngLat(e.lngLat)
                 .setHTML(layer.getHTML(e))
                 .addTo(map);
         });
-
-        // map.on("mouseleave", `${layer.id}-invisible`, () => {
-        //     map.getCanvas().style.cursor = "";
-        //     popupCommon.remove();
-        // });
     }
 });
