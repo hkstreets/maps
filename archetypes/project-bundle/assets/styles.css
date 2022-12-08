@@ -1,66 +1,57 @@
-body {
-    background: rgb(25, 33, 44);
-    margin: 0;
-    padding: 0;
-}
+/* MAP */
 
-#map {
+#hkstreets-map {
     position: absolute;
     top: 0;
     bottom: 0;
     width: 100%;
 }
 
-/**
-* Set rules for how the map overlays
-* (information box and legend) will be displayed
-* on the page. */
-.map-overlay {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    background: #fff;
-    margin-right: 20px;
-    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    overflow: auto;
-    border-radius: 3px;
-}
+/* MAP TOOLTIPS */
 
-#legend {
-    padding: 10px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    line-height: 18px;
-    height:90px;
-    margin-bottom: 40px;
-    border-radius: 8px;
-    width: 90px;
-    background-color: #2a3f4d;
-    color: white;
-    opacity: 0.85;
-    font-size: 12px;
-}
-
-.legend-key {
-    display: inline-block;
-    border-radius: 20%;
-    width: 10px;
-    height: 10px;
-    margin-right: 5px;
-}
-
-
-.mapboxgl-popup {
+#hkstreets-map .mapboxgl-popup {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     max-width: 480px;
 }
 
-
-.popup .mapboxgl-popup-content {
+#hkstreets-map .popup .mapboxgl-popup-content {
     background-color: #2A3F4D;
     opacity: 0.95;
     color: white;
 }
 
-.mapboxgl-popup-close-button:focus-visible {
+#hkstreets-map .mapboxgl-popup-close-button:focus-visible {
     outline: none !important;
+}
+
+
+/* LEGEND */
+
+#hkstreets-legend {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+    overflow: auto;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    height:90px;
+    margin-bottom: 40px;
+    width: 90px;
+    line-height: 18px;
+    border-radius: 8px;
+    background-color: #2a3f4d;
+    color: white;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    opacity: 0.85;
+}
+
+#hkstreets-legend .legend-key {
+    display: inline-block;
+    border-radius: 20%;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
 }

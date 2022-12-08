@@ -1,5 +1,7 @@
 body {
     background: rgb(25, 33, 44);
+    margin: 0;
+    padding: 0;
 }
 
 .link-projects {
