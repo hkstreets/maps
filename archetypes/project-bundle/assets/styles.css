@@ -78,6 +78,7 @@
     right: initial;
 }
 
+
 .mapboxgl-ctrl.mapboxgl-ctrl-attrib {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -87,4 +88,21 @@
 
 .mapboxgl-ctrl-attrib a {
     color: rgb(221 221 221 / 60%);
+}
+
+@media only screen and (max-width: 640px) {
+    .mapboxgl-ctrl-bottom-right {
+        left: 92px;
+        right: initial;
+    }
+    .mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        padding: 0 10px;
+    }
+    .mapboxgl-ctrl.mapboxgl-ctrl-attrib.mapboxgl-compact-show {
+        background: #2a3f4d;
+        padding-right: 26px;
+    }
+
 }
