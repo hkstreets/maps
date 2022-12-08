@@ -40,24 +40,21 @@
 
 #hkstreets-legend {
     position: absolute;
-    bottom: 0;
-    right: 0;
-    margin-right: 20px;
-    margin-bottom: 40px;
-    padding: 10px;
-    overflow: auto;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 13px;
+    overflow: hidden;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    line-height: 18px;
     height: 92px;
+    width: 184px;
+    line-height: 18px;
     border-radius: 8px;
-    width: 176px;
     background-color: #2a3f4d;
     color: white;
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     font-size: 12px;
     opacity: 0.85;
     box-sizing: border-box;
-    overflow: hidden;
 }
 
 #hkstreets-legend .legend-key {
@@ -65,9 +62,24 @@
     border-radius: 20%;
     width: 10px;
     height: 10px;
-    margin-right: 5px;
+    margin-right: 8px;
 }
 
 
+/* COPYRIGHT NOTICE */
 
+.mapboxgl-ctrl-bottom-right {
+    left: 140px;
+    right: initial;
+}
 
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0 10px;
+    background: #2a3f4d96;
+}
+
+.mapboxgl-ctrl-attrib a {
+    color: rgb(221 221 221 / 60%);
+}

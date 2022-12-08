@@ -69,3 +69,22 @@
     height: 10px;
     margin-right: 5px;
 }
+
+
+/* COPYRIGHT NOTICE */
+
+.mapboxgl-ctrl-bottom-right {
+    left: 140px;
+    right: initial;
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0 10px;
+    background: #2a3f4d96;
+}
+
+.mapboxgl-ctrl-attrib a {
+    color: rgb(221 221 221 / 60%);
+}
