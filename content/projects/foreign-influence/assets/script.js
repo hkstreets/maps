@@ -6,7 +6,7 @@ const bounds = [
 ];
 
 const map = new mapboxgl.Map({
-    container: "map",
+    container: "hkstreets-map",
     style: "mapbox://styles/dpang311/ck21xo59h0cht1cmm2wjrmoki",
     center: [114.18, 22.285],
     zoom: 12,
@@ -113,7 +113,7 @@ const invisiblePaint = {
 }
 
 const createLegend = () => {
-    const legend = document.getElementById("legend");
+    const legend = document.getElementById("hkstreets-legend");
     layerNames.forEach((layer, i) => {
         const color = lineColors[i];
         const item = document.createElement("div");
