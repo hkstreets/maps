@@ -48,6 +48,7 @@
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     font-size: 12px;
     opacity: 0.85;
+    box-sizing: border-box;
 }
 
 #hkstreets-legend .legend-key {
