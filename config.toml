@@ -5,16 +5,16 @@ defaultContentLanguage = "en"
 title = "Streets of Hong Kong"
 canonifyURLs = false
 
-
 contentDir = 'content'
 dataDir = 'data'
 publishDir = 'public'
 
-
-# copyright = "Copy, _right?_ :thinking_face:"
-
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+
+[params]
+embedMode = true
+embedClass = 'hkfp'
 
 [author]
 name = "Streets of Hong Kong"

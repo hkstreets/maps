@@ -1,11 +1,15 @@
 {{ define "main" }}
+    {{ if .Site.Params.embedMode }}
+    <div id="hkstreets-embed" class="{{ .Site.Params.embedClass }}">
+    {{end}}
+
     <!--  Styles  -->
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
     {{ block "customStyle" . }}{{ with .Resources.GetMatch "assets/styles.css" }}
     <link href="{{ .Permalink }}" rel="stylesheet">
     {{ end }}{{ end }}
     <!--  Map Elements  -->
-    <div id="hkstreets-map" class="{{ replace (.Page.Title  | lower)  " " "-"}}"></div>
+    <div id="hkstreets-map" class="{{ replace (.Page.Title  | lower)  " " "-"}}" data-tap-disabled="true"></div>
     <div id="hkstreets-legend"></div>
     {{ block "customData" . }}
     <!--  Load all GeoJSON files available from data/NAME.geojson and use NAME as a key in the sources
@@ -23,5 +27,8 @@
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
     {{ block "customScript" . }}{{ with .Resources.GetMatch "assets/script.js" }}
     <script src="{{.Permalink}}"></script>{{ end }}{{ end }}
+    {{ if .Site.Params.embedMode }}
+        </div>
+    {{end}}
 {{ end }}
 
