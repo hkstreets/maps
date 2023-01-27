@@ -96,15 +96,11 @@ const layers = {
     1919cc: {
         source: "1919cc",
         id: "1919cc-layer",
-        type: "line",
-        layout: {
-            "line-join": "round",
-            "line-cap": "round"
-        },
+        type: "circle",
         paint: {
-            "line-color": "#fa4d56",
-            "line-width": 1,
-            "line-opacity": 1
+            "circle-color": "#fa4d56",
+            "circle-stroke-width": 1,
+            "circle-stroke-opacity": 1
         },
         getHTML: function (e) {
             return '<strong><p style="color:#fa4d56; margin-top:0px">1919 Cheung Chau Residence Ordinance</p></strong>' +
