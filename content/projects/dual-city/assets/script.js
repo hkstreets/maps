@@ -75,9 +75,9 @@ const layers = {
                 e.features[0].properties.name
         }
     },
-    eur_1888: {
-        source: "boundary_edo1888",
-        id: "eur1888-layer",
+    1888ed: {
+        source: "1888ed",
+        id: "1888ed-layer",
         type: "line",
         layout: {
             "line-join": "round",
@@ -93,9 +93,9 @@ const layers = {
                 e.features[0].properties.name
         }
     },
-    cc_1919: {
-        source: "boundary_cc1919",
-        id: "cc1919-layer",
+    1919cc: {
+        source: "1919cc",
+        id: "1919cc-layer",
         type: "line",
         layout: {
             "line-join": "round",
