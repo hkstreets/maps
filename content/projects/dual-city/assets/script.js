@@ -93,7 +93,7 @@ const layers = {
                 e.features[0].properties.name
         }
     },
-    eur_1888: {
+    cc_1919: {
         source: "boundary_cc1919",
         id: "cc1919-layer",
         type: "line",
