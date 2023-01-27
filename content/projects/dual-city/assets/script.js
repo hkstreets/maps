@@ -13,11 +13,13 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c"];
+const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771", "#fa4d56"];
 const layerNames = [
     "Sino-Tibetan",
     "Indo-European",
-    "Mixed/Others"
+    "Mixed/Others",
+    "1888 European District Ordinance",
+    "1919 Cheung Chau Residence Ordinance"
 ];
 
 const layers = {
@@ -70,6 +72,42 @@ const layers = {
         },
         getHTML: function (e) {
             return '<strong><p style="color:#6fdc8c; margin-top:0px">Mixed</p></strong>' +
+                e.features[0].properties.name
+        }
+    },
+    eur_1888: {
+        source: "boundary_edo1888",
+        id: "eur1888-layer",
+        type: "line",
+        layout: {
+            "line-join": "round",
+            "line-cap": "round"
+        },
+        paint: {
+            "line-color": "#d12771",
+            "line-width": 1,
+            "line-opacity": 1
+        },
+        getHTML: function (e) {
+            return '<strong><p style="color:#d12771; margin-top:0px">1888 European District Ordinance</p></strong>' +
+                e.features[0].properties.name
+        }
+    },
+    eur_1888: {
+        source: "boundary_cc1919",
+        id: "cc1919-layer",
+        type: "line",
+        layout: {
+            "line-join": "round",
+            "line-cap": "round"
+        },
+        paint: {
+            "line-color": "#fa4d56",
+            "line-width": 1,
+            "line-opacity": 1
+        },
+        getHTML: function (e) {
+            return '<strong><p style="color:#fa4d56; margin-top:0px">1919 Cheung Chau Residence Ordinance</p></strong>' +
                 e.features[0].properties.name
         }
     }
