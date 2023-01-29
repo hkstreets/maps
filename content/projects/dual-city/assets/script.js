@@ -76,8 +76,8 @@ const layers = {
         }
     },
     edo: {
-        source: "1888ed",
-        id: "1888ed-layer",
+        source: "edo",
+        id: "edo-layer",
         type: "line",
         layout: {
             "line-join": "round",
@@ -94,8 +94,8 @@ const layers = {
         }
     },
     cc: {
-        source: "1919cc",
-        id: "1919cc-layer",
+        source: "cc",
+        id: "cc-layer",
         type: "circle",
         paint: {
             "circle-color": "#fa4d56",
