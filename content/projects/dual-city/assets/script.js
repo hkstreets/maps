@@ -18,7 +18,7 @@ const layerNames = [
     "Sino-Tibetan",
     "Indo-European",
     "Mixed/Others",
-    "1888 European District Ordinance",
+    "1888 European District Ordinance"
 ];
 
 const layers = {
