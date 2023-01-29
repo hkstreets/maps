@@ -91,7 +91,7 @@ const layers = {
                 "line-cap": "round"
             },
             paint: {
-                "line-color": "#d12771",
+                "line-color": "#fa4d56",
                 "line-width": 3
             }
     }
