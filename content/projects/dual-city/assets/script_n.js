@@ -1,8 +1,8 @@
 mapboxgl.accessToken = "pk.eyJ1IjoiZHBhbmczMTEiLCJhIjoiY2tidmNld2cyMDA5djJwbXYzZjZsNTB0OSJ9.hvW536UZKn2wDDH6yDjJ2g";
 
 const bounds = [
-    [113.7, 22.18], // Southwest coordinates
-    [114.5, 22.57]  // Northeast coordinates
+    [113.8, 22.18], // Southwest coordinates
+    [114.5, 22.57] // Northeast coordinates
 ];
 
 const map = new mapboxgl.Map({
@@ -13,8 +13,12 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771"];
-const layerNames = ["Sino-Tibetan", "Indo-European", "Mixed/Others", "1888 European District Ordinance"];
+const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c"];
+const layerNames = [
+    "Sino-Tibetan",
+    "Indo-European",
+    "Mixed/Others"
+];
 
 const layers = {
     sino: {
@@ -31,7 +35,7 @@ const layers = {
             "line-opacity": 1
         },
         getHTML: function (e) {
-            return '<strong><p style="color:#33b1ff; margin-top:0px">Chinese</p></strong>' +
+            return '<strong><p style="color:#33b1ff; margin-top:0px">Sino-Tibetan</p></strong>' +
                 e.features[0].properties.name
         }
     },
@@ -44,11 +48,12 @@ const layers = {
             "line-cap": "round"
         },
         paint: {
-            "line-color": " #d2a106",
-            "line-width": 1
+            "line-color": "#d2a106",
+            "line-width": 1,
+            "line-opacity": 1
         },
         getHTML: function (e) {
-            return '<strong><p style="color:#d2a106; margin-top:0px">English</p></strong>' +
+            return '<strong><p style="color:#d2a106; margin-top:0px">Indo-European</p></strong>' +
                 e.features[0].properties.name
         }
     },
@@ -62,7 +67,8 @@ const layers = {
         },
         paint: {
             "line-color": "#6fdc8c",
-            "line-width": 1
+            "line-width": 1,
+            "line-opacity": 1
         },
         getHTML: function (e) {
             return '<strong><p style="color:#6fdc8c; margin-top:0px">Mixed</p></strong>' +
@@ -79,7 +85,8 @@ const layers = {
         },
         paint: {
             "line-color": "#d12771",
-            "line-width": 1
+            "line-width": 1,
+            "line-opacity": 1
         }
     }
 }
@@ -107,10 +114,8 @@ const createLegend = () => {
 }
 
 map.on("load", () => {
-
     // create legend
     createLegend(layerNames)
-
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
         map.addSource(sourceName, source);
@@ -135,8 +140,6 @@ map.on("load", () => {
         map.on("mouseenter", `${layer.id}-invisible`, (e) => {
             map.getCanvas().style.cursor = "";
             popupCommon.remove();
-
-            // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = "pointer";
             popupCommon
                 .setLngLat(e.lngLat)
@@ -145,5 +148,3 @@ map.on("load", () => {
         });
     }
 });
-
-map.addControl(new mapboxgl.NavigationControl());
