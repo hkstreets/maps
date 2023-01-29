@@ -79,7 +79,7 @@ const layers = {
         },
         paint: {
             "line-color": "#d12771",
-            "line-width": 2
+            "line-width": 3
         }
     }
 }
