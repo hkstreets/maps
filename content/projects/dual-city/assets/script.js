@@ -75,7 +75,7 @@ const layers = {
                 e.features[0].properties.name
         }
     },
-    1888ed: {
+    edo: {
         source: "1888ed",
         id: "1888ed-layer",
         type: "line",
@@ -93,7 +93,7 @@ const layers = {
                 e.features[0].properties.name
         }
     },
-    1919cc: {
+    cc: {
         source: "1919cc",
         id: "1919cc-layer",
         type: "circle",
