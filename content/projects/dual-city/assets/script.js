@@ -87,10 +87,6 @@ const layers = {
             "line-color": "#d12771",
             "line-width": 1,
             "line-opacity": 1
-        },
-        getHTML: function (e) {
-            return '<strong><p style="color:#d12771; margin-top:0px">1888 European District Ordinance</p></strong>' +
-                e.features[0].properties.name
         }
     },
     cc: {
@@ -101,10 +97,6 @@ const layers = {
             "circle-color": "#fa4d56",
             "circle-stroke-width": 1,
             "circle-stroke-opacity": 1
-        },
-        getHTML: function (e) {
-            return '<strong><p style="color:#fa4d56; margin-top:0px">1919 Cheung Chau Residence Ordinance</p></strong>' +
-                e.features[0].properties.name
         }
     }
 }
