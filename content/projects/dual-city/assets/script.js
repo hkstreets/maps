@@ -13,12 +13,11 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771"];
+const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c"];
 const layerNames = [
     "Sino-Tibetan",
     "Indo-European",
-    "Mixed/Others",
-    "1888 European District Ordinance"
+    "Mixed/Others"
 ];
 
 const layers = {
@@ -49,8 +48,9 @@ const layers = {
             "line-cap": "round"
         },
         paint: {
-            "line-color": " #d2a106",
-            "line-width": 1
+            "line-color": "#d2a106",
+            "line-width": 1,
+            "line-opacity": 1
         },
         getHTML: function (e) {
             return '<strong><p style="color:#d2a106; margin-top:0px">Indo-European</p></strong>' +
@@ -67,7 +67,8 @@ const layers = {
         },
         paint: {
             "line-color": "#6fdc8c",
-            "line-width": 1
+            "line-width": 1,
+            "line-opacity": 1
         },
         getHTML: function (e) {
             return '<strong><p style="color:#6fdc8c; margin-top:0px">Mixed</p></strong>' +
