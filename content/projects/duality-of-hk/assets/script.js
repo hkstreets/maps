@@ -44,7 +44,7 @@ const layers = {
             "line-cap": "round"
         },
         paint: {
-            "line-color": " #d2a106",
+            "line-color": "#d2a106",
             "line-width": 1
         },
         getHTML: function (e) {
