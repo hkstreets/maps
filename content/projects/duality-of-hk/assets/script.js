@@ -13,8 +13,8 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771"];
-const layerNames = ["Sino-Tibetan", "Indo-European", "Mixed/Others", "1888 European District Ordinance"];
+const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771","#fa4d56"];
+const layerNames = ["Sino-Tibetan", "Indo-European", "Mixed/Others", "1888 European District Ordinance", "1919 Cheung Chau"];
 
 const layers = {
     sino: {
@@ -81,6 +81,19 @@ const layers = {
             "line-color": "#d12771",
             "line-width": 3
         }
+    },
+    cc: {
+            source: "cc",
+            id: "cc-layer",
+            type: "line",
+            layout: {
+                "line-join": "round",
+                "line-cap": "round"
+            },
+            paint: {
+                "line-color": "#d12771",
+                "line-width": 3
+            }
     }
 }
 
