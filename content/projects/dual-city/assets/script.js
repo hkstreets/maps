@@ -13,42 +13,42 @@ const map = new mapboxgl.Map({
     maxBounds: bounds
 });
 
-const lineColors = ["#33b1ff", "#d2a106", "#6fdc8c", "#d12771"];
-const layerNames = ["Sino-Tibetan", "Indo-European", "Mixed/Others", "1888 European District Ordinance"];
+const lineColors = ["#E58606", "#5D69B1", "#52BCA3", "#99C945", "#CC61B0"];
+const layerNames = ["Chinese", "English", "European", "Others", "Mixed"];
 
 const layers = {
-    sino: {
-        source: "sino",
-        id: "sino-layer",
+    chi: {
+        source: "chi",
+        id: "chi-layer",
         type: "line",
         layout: {
             "line-join": "round",
             "line-cap": "round"
         },
         paint: {
-            "line-color": "#33b1ff",
+            "line-color": "#E58606",
             "line-width": 1,
             "line-opacity": 1
         },
         getHTML: function (e) {
-            return '<strong><p style="color:#33b1ff; margin-top:0px">Chinese</p></strong>' +
+            return '<strong><p style="color:#E58606; margin-top:0px">Chinese</p></strong>' +
                 e.features[0].properties.name
         }
     },
-    eur: {
-        source: "eur",
-        id: "eur-layer",
+    eng: {
+        source: "eng",
+        id: "eng-layer",
         type: "line",
         layout: {
             "line-join": "round",
             "line-cap": "round"
         },
         paint: {
-            "line-color": " #d2a106",
+            "line-color": " #5D69B1",
             "line-width": 1
         },
         getHTML: function (e) {
-            return '<strong><p style="color:#d2a106; margin-top:0px">English</p></strong>' +
+            return '<strong><p style="color:#5D69B1; margin-top:0px">English</p></strong>' +
                 e.features[0].properties.name
         }
     },
@@ -61,25 +61,48 @@ const layers = {
             "line-cap": "round"
         },
         paint: {
-            "line-color": "#6fdc8c",
+            "line-color": "#CC61B0",
             "line-width": 1
         },
         getHTML: function (e) {
-            return '<strong><p style="color:#6fdc8c; margin-top:0px">Mixed</p></strong>' +
+            return '<strong><p style="color:#CC61B0; margin-top:0px">Mixed</p></strong>' +
                 e.features[0].properties.name
         }
     },
-    edo: {
-        source: "edo",
-        id: "edo-layer",
+    european: {
+        source: "european",
+        id: "european-layer",
         type: "line",
         layout: {
             "line-join": "round",
             "line-cap": "round"
         },
         paint: {
-            "line-color": "#d12771",
+            "line-color": "#52BCA3",
             "line-width": 1
+        },
+        getHTML: function (e) {
+            return e.features[0].properties.heading + "<br>" +
+                e.features[0].properties.name + "<br><br>" +
+                e.features[0].properties.description
+        }
+    },
+    others: {
+        source: "others",
+        id: "others-layer",
+        type: "line",
+        layout: {
+            "line-join": "round",
+            "line-cap": "round"
+        },
+        paint: {
+            "line-color": "#99C945",
+            "line-width": 1
+        },
+        getHTML: function (e) {
+            return e.features[0].properties.heading + "<br>" +
+                e.features[0].properties.name + "<br><br>" +
+                e.features[0].properties.description
         }
     }
 }
