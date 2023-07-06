@@ -23,8 +23,8 @@ const layerNames = [
 
 const layers = {
     sound: {
-        source: "transliteration",
         id: "sound-layer",
+        source: "transliteration",
         type: "line",
         layout: {
             "line-join": "round",
