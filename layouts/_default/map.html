@@ -18,6 +18,7 @@
     const sources = { {{ with .Resources.Match "data/*.geojson" }}{{ range $links := . }}
         {{ replaceRE "^data/([^.]+).*" "$1" .Name }} : {
            type: "geojson",
+           generateId: true, // This ensures that all features have unique IDs
            data: {{ .Permalink }}
        },{{ end }}{{ end }}
     }
