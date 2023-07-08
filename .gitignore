@@ -13,3 +13,6 @@
 
 # Lock files
 /.hugo_build.lock
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
