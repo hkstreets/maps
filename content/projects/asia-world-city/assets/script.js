@@ -115,7 +115,7 @@ map.on("load", () => {
         // Reference place data
         const title = e.features[0].properties.title;
         const description = e.features[0].properties.description;
-        const place = e.features[0].properties.place.toLowerCase().replace(/\s/g, '');
+        const imageUrl = e.features[0].properties.image;
 
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
@@ -127,10 +127,11 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            title + description +
-            "<img width='250px' src='https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/" +
-            place +
-            ".jpg'>"
+            "<div style='width:300px'>" +
+            "<h3>" + title + "</h3>" +
+            "<p>" + description + "</p>" +
+            "<img src=" + imageUrl + ">" +
+            "</div>"
         ).addTo(map);
 
         // TODO Highlight the marker
