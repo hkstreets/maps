@@ -58,11 +58,11 @@ const layer = {
 
 const lineColors = ['#64C6AA', '#CB5780', '#F9D25B', '#52B7FF', '#867DCD', '#CDD1DA'];
 const layerNames = [
-    'US',
+    'Americas',
     'China',
     'Asia',
     'Europe',
-    'UK',
+    'Britain',
     'Other'
 ];
 
