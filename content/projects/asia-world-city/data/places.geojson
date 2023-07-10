@@ -52,7 +52,7 @@
             "properties": {
                 "place": "Xiamen",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/amoystreet.jpg",
                 "title": "Amoy Street \u5ec8\u9580\u8857",
                 "description": "Named after Xiamen, port city in Fujian, China."
@@ -90,7 +90,7 @@
             "properties": {
                 "place": "Anhui",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/anhuistreet.jpg",
                 "title": "Anhui Street \u5b89\u5fbd\u8857",
                 "description": "Named after Anhui, a province in China."
@@ -489,7 +489,7 @@
             "properties": {
                 "place": "Guangzhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/cantonroad.jpg",
                 "title": "Canton Road \u5ee3\u6771\u9053",
                 "description": "Named after Guangzhou, Guangdong province's capital. Renamed from 'Macdonnell Road' in 1909."
@@ -603,7 +603,7 @@
             "properties": {
                 "place": "Changsha",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/changshastreet.jpg",
                 "title": "Changsha Street \u9577\u6c99\u8857",
                 "description": "Named after Changsha, Hunan province's capital. Renamed from 'Hill Street' in 1909."
@@ -622,7 +622,7 @@
             "properties": {
                 "place": "Chengdu",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/chengturoad.jpg",
                 "title": "Chengtu Road \u6210\u90fd\u9053",
                 "description": "Named after Chengdu, Sichuan province's capital. After the Tai Shing Paper Mill closed, the building was converted into residential units in the 1940s. The nearby streets were named after provinces and cities in China, taking inspiration from the idiom \"\u6d1b\u967d\u7d19\u8cb4\" (Luoyang paper is expensive). Luoyang is an industrial city located in central China's Henan province."
@@ -641,7 +641,7 @@
             "properties": {
                 "place": "Changle",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/cheonglokstreet.jpg",
                 "title": "Cheong Lok Street \u9577\u6a02\u8857",
                 "description": "Named after Changle, a area in Fuzhou, China."
@@ -717,7 +717,7 @@
             "properties": {
                 "place": "Zhejiang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/chikiangstreet.jpg",
                 "title": "Chi Kiang Street \u6d59\u6c5f\u8857",
                 "description": "Named after Zhejiang, a province in China."
@@ -1135,7 +1135,7 @@
             "properties": {
                 "place": "Shenyang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/fungtinstreet.jpg",
                 "title": "Fung Tin Street \u5949\u5929\u8857",
                 "description": "Named after Shenyang, Liaoning province's capital. After the Tai Shing Paper Mill closed, the building was converted into residential units in the 1940s. The nearby streets were named after provinces and cities in China, taking inspiration from the idiom \"\u6d1b\u967d\u7d19\u8cb4\" (Luoyang paper is expensive). Luoyang is an industrial city located in central China's Henan province."
@@ -1344,7 +1344,7 @@
             "properties": {
                 "place": "Pingtan Island or Haitan Island",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/haitanstreet.jpg",
                 "title": "Hai Tan Street \u6d77\u58c7\u8857",
                 "description": "Named after Pingtan Island or Haitan Island, which is an island located in Fujian Province, China."
@@ -1382,7 +1382,7 @@
             "properties": {
                 "place": "Wuhan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/hankowroad.jpg",
                 "title": "Hankow Road \u6f22\u53e3\u9053",
                 "description": "Named after Wuhan, Hubei province's capital, China. Renamed from 'Garden Road' in 1909."
@@ -1477,7 +1477,7 @@
             "properties": {
                 "place": "Kaiping",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/hoipingroad.jpg",
                 "title": "Hoi Ping Road \u958b\u5e73\u9053",
                 "description": "Named after Kaiping, one of the four counties in Guangdong. Lee Hysan, a businessman from Guangdong, developed Causeway Bay in the 1930s and named the streets in the area after his ancestral home in Guangdong."
@@ -1591,7 +1591,7 @@
             "properties": {
                 "place": "Yichang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ichangstreet.jpg",
                 "title": "Ichang Street \u5b9c\u660c\u8857",
                 "description": "Named after Yichang, a city in Hubei, China."
@@ -1667,7 +1667,7 @@
             "properties": {
                 "place": "Gansu",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kansustreet.jpg",
                 "title": "Kansu Street \u7518\u8085\u8857",
                 "description": "Named after Gansu, a province in China. Renamed from 'First Street' in 1909."
@@ -1819,7 +1819,7 @@
             "properties": {
                 "place": "Jiangxi",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kianghsistreet.jpg",
                 "title": "Kiang Hsi Street \u6c5f\u897f\u8857",
                 "description": "Named after Jiangxi, a province in China."
@@ -1838,7 +1838,7 @@
             "properties": {
                 "place": "Jiangsu",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kiangsustreet.jpg",
                 "title": "Kiang Su Street \u6c5f\u8607\u8857",
                 "description": "Named after Jiangsu, a province in China."
@@ -1895,7 +1895,7 @@
             "properties": {
                 "place": "Jiujiang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kiukiangstreet.jpg",
                 "title": "Kiu Kiang Street \u4e5d\u6c5f\u8857",
                 "description": "Named after Jiujiang, a city in Jiangxi, China."
@@ -1933,7 +1933,7 @@
             "properties": {
                 "place": "Guizhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kweichowstreet.jpg",
                 "title": "Kwei Chow Street \u8cb4\u5dde\u8857",
                 "description": "Named after Guizhou, a province in China."
@@ -1952,7 +1952,7 @@
             "properties": {
                 "place": "Guilin",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kweilinstreet.jpg",
                 "title": "Kweilin Street \u6842\u6797\u8857",
                 "description": "Named after Guilin, a city in Guangxi in China."
@@ -2104,7 +2104,7 @@
             "properties": {
                 "place": "Luoyang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/lokyeungstreet.jpg",
                 "title": "Lok Yeung Street \u6d1b\u967d\u8857",
                 "description": "Named after Luoyang, a city in Henan, China. After the Tai Shing Paper Mill closed, the building was converted into residential units in the 1940s. The nearby streets were named after provinces and cities in China, taking inspiration from the idiom \"\u6d1b\u967d\u7d19\u8cb4\" (Luoyang paper is expensive). Luoyang is an industrial city located in central China's Henan province."
@@ -2427,7 +2427,7 @@
             "properties": {
                 "place": "Fujian",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/minstreet.jpg",
                 "title": "Min Street \u95a9\u8857",
                 "description": "Named after Fujian, a province in China."
@@ -2617,7 +2617,7 @@
             "properties": {
                 "place": "Nanchang",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/namcheongstreet.jpg",
                 "title": "Nam Cheong Street \u5357\u660c\u8857",
                 "description": "Named after Nanchang, Jiangxi province's capital, China."
@@ -2636,7 +2636,7 @@
             "properties": {
                 "place": "Nanning",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/namningstreet.jpg",
                 "title": "Nam Ning Street \u5357\u5be7\u8857",
                 "description": "Named after Nanning, Guangxi province's capital. After the Tai Shing Paper Mill closed, the building was converted into residential units in the 1940s. The nearby streets were named after provinces and cities in China, taking inspiration from the idiom \"\u6d1b\u967d\u7d19\u8cb4\" (Luoyang paper is expensive). Luoyang is an industrial city located in central China's Henan province."
@@ -2655,7 +2655,7 @@
             "properties": {
                 "place": "Nanjing",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/nankingstreet.jpg",
                 "title": "Nanking Street \u5357\u4eac\u8857",
                 "description": "Named after Nanjing, Jiangsu province's capital, China. Renamed from 'Fifth Street' in 1909."
@@ -2750,7 +2750,7 @@
             "properties": {
                 "place": "Ningbo",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ningpostreet.jpg",
                 "title": "Ning Po Street \u5be7\u6ce2\u8857",
                 "description": "Named after Ningbo, a city in Zhejiang, China. Renamed from 'Fourth Street' in 1909."
@@ -2883,7 +2883,7 @@
             "properties": {
                 "place": "Beihai",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/pakhoistreet.jpg",
                 "title": "Pak Hoi Street \u5317\u6d77\u8857",
                 "description": "Named after Beihai, a city in Guangxi, China. Renamed from 'Second Street' in 1909."
@@ -2940,7 +2940,7 @@
             "properties": {
                 "place": "Beihe",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/peihostreet.jpg",
                 "title": "Pei Ho Street \u5317\u6cb3\u8857",
                 "description": "Named after Beihe, a river in China."
@@ -2959,7 +2959,7 @@
             "properties": {
                 "place": "Beijing",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/pekingroad.jpg",
                 "title": "Peking Road \u5317\u4eac\u9053",
                 "description": "Named after Beijing, China's capital city. Renamed from 'Chater Street' in 1909."
@@ -2981,7 +2981,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/pentlandstreet.jpg",
                 "title": "Pentland Street \u54c1\u862d\u8857",
-                "description": "Named after Pentland, a island in Scotland."
+                "description": "Named after Pentland, an island in Scotland."
             }
         },
         {
@@ -3073,7 +3073,7 @@
             "properties": {
                 "place": "Baoan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/poonroad.jpg",
                 "title": "Po On Road \u4fdd\u5b89\u9053",
                 "description": "Named after Baoan, a district in Shenzhen in China."
@@ -3358,7 +3358,7 @@
             "properties": {
                 "place": "Xi\u2019an",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/saionstreet.jpg",
                 "title": "Sai On Street \u897f\u5b89\u8857",
                 "description": "Named after Xi\u2019An, Shaanxi province's capital. After the Tai Shing Paper Mill closed, the building was converted into residential units in the 1940s. The nearby streets were named after provinces and cities in China, taking inspiration from the idiom \"\u6d1b\u967d\u7d19\u8cb4\" (Luoyang paper is expensive). Luoyang is an industrial city located in central China's Henan province."
@@ -3548,7 +3548,7 @@
             "properties": {
                 "place": "Shenzhen",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/shamchunstreet.jpg",
                 "title": "Shamchun Street \u6df1\u5733\u8857",
                 "description": "Named after Shenzhen, a city in Guangdong, China."
@@ -3567,7 +3567,7 @@
             "properties": {
                 "place": "Shanghai",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/shanghaistreet.jpg",
                 "title": "Shanghai Street \u4e0a\u6d77\u8857",
                 "description": "Named after Shanghai, a city in China. Renamed from 'Station Street' in 1909."
@@ -3586,7 +3586,7 @@
             "properties": {
                 "place": "Shanxi",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/shansistreet.jpg",
                 "title": "Shansi Street \u5c71\u897f\u8857",
                 "description": "Named after Shanxi, a province in China."
@@ -3605,7 +3605,7 @@
             "properties": {
                 "place": "Shandong",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/shantungstreet.jpg",
                 "title": "Shantung Street \u5c71\u6771\u8857",
                 "description": "Named after Shandong, a province in China. Renamed from 'Nullah Lane' in 1909."
@@ -3624,7 +3624,7 @@
             "properties": {
                 "place": "Shilong",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sheklungstreet.jpg",
                 "title": "Shek Lung Street \u77f3\u9f8d\u8857",
                 "description": "Named after Shilong, a town in Dongguan, China."
@@ -3947,7 +3947,7 @@
             "properties": {
                 "place": "Taishan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sunningroad.jpg",
                 "title": "Sunning Road \u65b0\u5be7\u9053",
                 "description": "Named after Taishan, one of the four counties in Guangdong. Lee Hysan, a businessman from Guangdong, developed Causeway Bay in the 1930s and named the streets in the area after his ancestral home in Guangdong."
@@ -3966,7 +3966,7 @@
             "properties": {
                 "place": "Xinhui",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sunwuiroad.jpg",
                 "title": "Sun Wui Road \u65b0\u6703\u9053",
                 "description": "Named after Xinhui, one of the four counties in Guangdong. Lee Hysan, a businessman from Guangdong, developed Causeway Bay in the 1930s and named the streets in the area after his ancestral home in Guangdong."
@@ -4004,7 +4004,7 @@
             "properties": {
                 "place": "Shantou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/swatowstreet.jpg",
                 "title": "Swatow Street \u6c55\u982d\u8857",
                 "description": "Named after Shantou, city in Guangdong, China"
@@ -4023,7 +4023,7 @@
             "properties": {
                 "place": "Sichuan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/szechuenstreet.jpg",
                 "title": "Sze Chuen Street \u56db\u5ddd\u8857",
                 "description": "Named after Sichuan, a province in China."
@@ -4080,7 +4080,7 @@
             "properties": {
                 "place": "Taiyuan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/taiyuenstreet.jpg",
                 "title": "Tai Yuen Street \u592a\u539f\u8857",
                 "description": "Named after Taiyuan, a city in Guangdong, China. Renamed from 'Albany Street' in 1909."
@@ -4099,7 +4099,7 @@
             "properties": {
                 "place": "Tianjin",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/takustreet.jpg",
                 "title": "Taku Street \u5927\u6cbd\u8857",
                 "description": "Named after Taku Forts in Tianjin, China. The Taku Forts were built during the Ming Dynasty in China to protect against sea raiders. The Taku Forts were strengthened after the First Opium War in 1851. They were captured by the British and French during the Second Opium War."
@@ -4194,7 +4194,7 @@
             "properties": {
                 "place": "Tongzhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/tungchaustreet.jpg",
                 "title": "Tung Chau Street \u901a\u5dde\u8857",
                 "description": "Named after Tongzhou, a district in Nantong, China."
@@ -4213,7 +4213,7 @@
             "properties": {
                 "place": "Dongguan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/tungkunstreet.jpg",
                 "title": "Tung Kun Street \u6771\u839e\u8857",
                 "description": "Named after Dongguan, a city in Guangdong, China."
@@ -4232,7 +4232,7 @@
             "properties": {
                 "place": "Dongsheng",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/tungsingroad.jpg",
                 "title": "Tung Sing Road \u6771\u52dd\u9053",
                 "description": "Named after Dongsheng, a district in Ordos City in Inner Mongolia, China"
@@ -4365,7 +4365,7 @@
             "properties": {
                 "place": "Pazhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/whampoastreet.jpg",
                 "title": "Whampoa Street \u9ec3\u57d4\u8857",
                 "description": "Named after Pazhou, a Pazhou, China."
@@ -4441,7 +4441,7 @@
             "properties": {
                 "place": "Wusong",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/woosungstreet.jpg",
                 "title": "Woosung Street \u5433\u677e\u8857",
                 "description": "Named after Wusong, a district in Shanghai, China. Renamed from 'Kennedy Street' in 1909."
@@ -4460,7 +4460,7 @@
             "properties": {
                 "place": "Wuhu",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/wuhustreet.jpg",
                 "title": "Wuhu Street \u856a\u6e56\u8857",
                 "description": "Named after Wuhu, a city in Anhui, China. Renamed from 'Market Street' in 1909."
@@ -4479,7 +4479,7 @@
             "properties": {
                 "place": "Hunan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/wunamstreet.jpg",
                 "title": "Wu Nam Street \u6e56\u5357\u8857",
                 "description": "Named after Hunan, a province in China."
@@ -4498,7 +4498,7 @@
             "properties": {
                 "place": "Hubei",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/wupakstreet.jpg",
                 "title": "Wu Pak Street \u6e56\u5317\u8857",
                 "description": "Named after Hubei, a province in China."
@@ -4517,7 +4517,7 @@
             "properties": {
                 "place": "Qinzhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/yenchowstreet.jpg",
                 "title": "Yen Chow Street \u6b3d\u5dde\u8857",
                 "description": "Named after Qinzhou, a city in Guangxi, China."
@@ -4536,7 +4536,7 @@
             "properties": {
                 "place": "Qinzhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/yenchowstreetwest.jpg",
                 "title": "Yen Chow Street West \u6b3d\u5dde\u8857\u897f",
                 "description": "Named after Qinzhou, a city in Guangxi, China."
@@ -4574,7 +4574,7 @@
             "properties": {
                 "place": "Ruzhou",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/yuchaustreet.jpg",
                 "title": "Yu Chau Street \u6c5d\u5dde\u8857",
                 "description": "Named after Ruzhou, a city in Henan, China."
@@ -4593,7 +4593,7 @@
             "properties": {
                 "place": "Yunnan",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/yunnanlane.jpg",
                 "title": "Yunnan Lane \u96f2\u5357\u91cc",
                 "description": "Named after Yunnan, a province in China. Renamed from 'Seventh Lane' in 1909."
@@ -4612,7 +4612,7 @@
             "properties": {
                 "place": "Enping",
                 "country": "China",
-                "region": "Asia",
+                "region": "China",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/yunpingroad.jpg",
                 "title": "Yun Ping Road \u6069\u5e73\u9053",
                 "description": "Named after Enping, one of the four counties in Guangdong. Lee Hysan, a businessman from Guangdong, developed Causeway Bay in the 1930s and named the streets in the area after his ancestral home in Guangdong."
