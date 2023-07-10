@@ -43,7 +43,12 @@
     outline-style: none !important;
 }
 
+
 #popupdiv{
+    word-wrap: break-word;
+}
+
+.mapboxgl-popup p{
     word-wrap: break-word;
 }
 
