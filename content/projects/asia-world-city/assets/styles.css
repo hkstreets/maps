@@ -42,8 +42,7 @@
 }
 
 #popupdiv{
-    white-space: nowrap;
-    text-overflow: ellipsis;
+    word-wrap: break-word;
 }
 
 
