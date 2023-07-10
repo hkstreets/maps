@@ -41,25 +41,28 @@ const layer = {
         "circle-color": [
             'match',
             ['get', 'region'],
-            'US',
-            '#fbb03b',
+            'China',
+            '#CB5780'
+            'Americas',
+            '#47A5E8',
             'Asia',
-            '#e728e2',
+            '#F9D25B',
             'Europe',
-            '#e55e5e',
-            'UK',
-            '#3bb2d0',
-            /* other */ '#ccc'
+            '#85C1C4',
+            'Britain',
+            '#867DCD',
+            /* other */ '#CDD1DA'
         ]
     }
 }
 
-const lineColors = ['#fbb03b', '#e728e2', '#e55e5e', '#3bb2d0', '#ccc'];
+const lineColors = ['#F9D25B', '#47A5E8', '#867DCD', '#CB5780', '#85C1C4','#CDD1DA'];
 const layerNames = [
-    'US',
     'Asia',
+    'Americas',
+    'Britain',
+    'China',
     'Europe',
-    'UK',
     'Other'
 ];
 
