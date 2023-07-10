@@ -74,7 +74,7 @@ const popupOffsets = [0, 0];
 const popup = new mapboxgl.Popup({
     offset: popupOffsets,
     className: 'popup',
-    closeButton: false,
+    closeButton: true,
     closeOnClick: false,
 })
     .setHTML("<h1>Hello World!</h1>")

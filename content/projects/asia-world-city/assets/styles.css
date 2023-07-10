@@ -37,8 +37,10 @@
     max-width: 280px;
 }
 
+
+
 #hkstreets-map .mapboxgl-popup-close-button:focus-visible {
-    outline: none !important;
+    outline-style: none !important;
 }
 
 #popupdiv{
