@@ -42,7 +42,9 @@
 }
 
 #popupdiv{
-    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 
