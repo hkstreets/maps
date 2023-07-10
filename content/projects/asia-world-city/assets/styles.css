@@ -46,6 +46,12 @@
     overflow-y:auto;
 }
 
+p{
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+}
+
 
 
 /* LEGEND */
