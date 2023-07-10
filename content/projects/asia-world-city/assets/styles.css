@@ -42,15 +42,10 @@
 }
 
 #popupdiv{
-    word-wrap: break-word;
-    overflow-y:auto;
+    word-break: break-all;
+    overflow: hidden;
 }
 
-p{
-    word-wrap: break-word;
-    overflow-y:auto;
-}
-}
 
 
 
