@@ -25,6 +25,8 @@
 #hkstreets-map .mapboxgl-popup {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     max-width: 480px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 #hkstreets-map .popup .mapboxgl-popup-content {
@@ -41,13 +43,7 @@
     outline: none !important;
 }
 
-.wordwrap {
-    white-space: pre-wrap;      /* Webkit */
-    white-space: -moz-pre-wrap; /* Firefox */
-    white-space: -pre-wrap;     /* Opera <7 */
-    white-space: -o-pre-wrap;   /* Opera 7 */
-    word-wrap: break-word;      /* IE */
-}
+
 
 /* LEGEND */
 
