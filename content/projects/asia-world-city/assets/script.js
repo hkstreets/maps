@@ -42,27 +42,27 @@ const layer = {
             'match',
             ['get', 'region'],
             'Americas',
-            '#64C6AA',
-            'China',
-            '#CB5780',
+            '#72E0C1',
             'Asia',
             '#F9D25B',
-            'Europe',
-            '#52B7FF',
             'Britain',
             '#867DCD',
+            'China',
+            '#CB5780',
+            'Europe',
+            '#52B7FF',
             /* other */ '#ccc'
         ]
     }
 }
 
-const lineColors = ['#64C6AA', '#CB5780', '#F9D25B', '#52B7FF', '#867DCD', '#CDD1DA'];
+const lineColors = ['#72E0C1', '#F9D25B', '#867DCD', '#CB5780', '#52B7FF', '#CDD1DA'];
 const layerNames = [
     'Americas',
-    'China',
     'Asia',
-    'Europe',
     'Britain',
+    'China',
+    'Europe',
     'Other'
 ];
 
