@@ -1572,7 +1572,7 @@
             "properties": {
                 "place": "Humbert Street",
                 "country": "USA",
-                "region": "Americas",
+                "region": "Others",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/humbertstreet.jpg",
                 "title": "Humbert Street \u6052\u67cf\u8857",
                 "description": "Humbert Street exists in both New York and New Jersey but it doesn't seem to have any particular importance. The source of the name is still unknown."
