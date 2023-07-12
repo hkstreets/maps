@@ -22,11 +22,12 @@ const layer = {
         // the radius size according to its magnitude when
         // a feature's hover state is set to true
         "circle-stroke-color": "#1C2B36",
+        "circle-stroke-opacity": .75,
         "circle-opacity": [
             "case",
             ["boolean", ["feature-state", "hover"], false],
             1,
-            0.65
+            0.75
         ],
         "circle-radius": [
             "case",
@@ -130,11 +131,9 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<div id='popupdiv' style='width:300px'>" +
             "<h3>" + title + "</h3>" +
             "<p>" + description + "</p>" +
-            "<img src=" + imageUrl + ">" +
-            "</div>"
+            "<img src=" + imageUrl + ">"
         ).addTo(map);
 
         // TODO Highlight the marker
