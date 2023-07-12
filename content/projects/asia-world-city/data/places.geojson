@@ -36,7 +36,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/amalfidrive.jpg",
                 "title": "Amalfi Drive \u6d25\u5824\u5f91",
-                "description": "Named after Amalfi, a town in Italy."
+                "description": "Named after Amalfi, a town in Italy. Part of the Discovery Bay development."
             }
         },
         {
@@ -74,7 +74,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/angelislandavenue.jpg",
                 "title": "Angel Island Avenue \u5b89\u5cf6\u5f91",
-                "description": "Named after Angel Island, an island in San Francisco Bay, USA."
+                "description": "Named after Angel Island, an island in San Francisco Bay, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -150,7 +150,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/avenuedeversailles.jpg",
                 "title": "Avenue De Versailles \u51e1\u723e\u8cfd\u5927\u9053",
-                "description": "Named after Versailles, a palace in France."
+                "description": "Named after Versailles, a palace in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -169,7 +169,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/avioboulevard.jpg",
                 "title": "Avio Boulevard \u827e\u7dad\u5967\u5927\u9053",
-                "description": "Named after Avio, a municipality in Italy."
+                "description": "Named after Avio, a municipality in Italy. Part of the Riva development."
             }
         },
         {
@@ -188,7 +188,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bahansavenue.jpg",
                 "title": "Bahans Avenue \u5df4\u6069\u5927\u9053",
-                "description": "Named after Bahans, a ch\u00e2teau in France."
+                "description": "Named after Bahans, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -226,7 +226,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bel-airavenue.jpg",
                 "title": "Bel-Air Avenue \u8c9d\u6c99\u7063\u9053",
-                "description": "Named after Bel-Air, a municipality in France."
+                "description": "Named after Bel-Air, a municipality in France. Part of the Residence Bel-Air development."
             }
         },
         {
@@ -245,7 +245,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bel-airpeakavenue.jpg",
                 "title": "Bel-Air Peak Avenue \u8c9d\u6c99\u5c71\u9053",
-                "description": "Named after Bel-Air, a municipality in France."
+                "description": "Named after Bel-Air, a municipality in France. Part of the Residence Bel-Air development."
             }
         },
         {
@@ -264,7 +264,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bel-airpeakrise.jpg",
                 "title": "Bel-Air Peak Rise \u8c9d\u6c99\u5c71\u5f91",
-                "description": "Named after Bel-Air, a municipality in France."
+                "description": "Named after Bel-Air, a municipality in France. Part of the Residence Bel-Air development."
             }
         },
         {
@@ -283,7 +283,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bel-airrise.jpg",
                 "title": "Bel-Air Rise \u8c9d\u6c99\u5f91",
-                "description": "Named after Bel-Air, a municipality in France."
+                "description": "Named after Bel-Air, a municipality in France. Part of the Residence Bel-Air development."
             }
         },
         {
@@ -321,7 +321,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/bernavenue.jpg",
                 "title": "Bern Avenue \u4f2f\u6069\u5927\u9053",
-                "description": "Named after Bern, a city in Switzerland."
+                "description": "Named after Bern, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -378,7 +378,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/beveraboulevard.jpg",
                 "title": "Bevera Boulevard \u5df4\u7dad\u62c9\u5927\u9053",
-                "description": "Named after Bevera, a river in France."
+                "description": "Named after Bevera, a river in France. Part of the Riva development."
             }
         },
         {
@@ -511,7 +511,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/carmelavenue.jpg",
                 "title": "Carmel Avenue \u5361\u7c73\u723e\u5f91",
-                "description": "Named after Carmel, a city in California, USA."
+                "description": "Named after Carmel, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -549,7 +549,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/catalinaavenue.jpg",
                 "title": "Catalina Avenue \u5361\u9023\u62ff\u5f91",
-                "description": "Named after Catalina, an island in California, USA."
+                "description": "Named after Catalina, an island in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -568,7 +568,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/cerviaboulevard.jpg",
                 "title": "Cervia Boulevard \u5353\u7dad\u96c5\u5927\u9053",
-                "description": "Named after Cervia, a town in Italy."
+                "description": "Named after Cervia, a town in Italy. Part of the Riva development."
             }
         },
         {
@@ -701,7 +701,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/chiantidrive.jpg",
                 "title": "Chianti Drive \u5c1a\u5824\u5f91",
-                "description": "Named after Chianti, an area in Italy."
+                "description": "Named after Chianti, an area in Italy. Part of the Discovery Bay development."
             }
         },
         {
@@ -739,7 +739,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/churavenue.jpg",
                 "title": "Chur Avenue \u5eab\u723e\u5927\u9053",
-                "description": "Named after Chur, a town in Switzerland."
+                "description": "Named after Chur, a town in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -796,7 +796,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/coronadoavenue.jpg",
                 "title": "Coronado Avenue \u5609\u62ff\u591a\u5f91",
-                "description": "Named after Coronado, a city in California, USA."
+                "description": "Named after Coronado, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -872,7 +872,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/diveriaboulevard.jpg",
                 "title": "Diveria Boulevard \u8fea\u7dad\u5c3c\u4e9e\u5927\u9053",
-                "description": "Named after Diveria, a river in Switzerland."
+                "description": "Named after Diveria, a river in Switzerland. Part of the Riva development."
             }
         },
         {
@@ -1005,7 +1005,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ennaboulevard.jpg",
                 "title": "Enna Boulevard \u8335\u5a1c\u5927\u9053",
-                "description": "Named after Enna, a city in Italy."
+                "description": "Named after Enna, a city in Italy. Part of the Riva development."
             }
         },
         {
@@ -1043,7 +1043,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ferentinoboulevard.jpg",
                 "title": "Ferentino Boulevard \u83f2\u5229\u63d0\u8afe\u5927\u9053",
-                "description": "Named after Ferentino, a town in Italy."
+                "description": "Named after Ferentino, a town in Italy. Part of the Riva development."
             }
         },
         {
@@ -1081,7 +1081,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/firenzeviale.jpg",
                 "title": "Firenze Viale \u4f5b\u6d1b\u65af\u5927\u9053",
-                "description": "Named after Florence, a city in Italy."
+                "description": "Named after Florence, a city in Italy. Part of the Crescendo development."
             }
         },
         {
@@ -1157,7 +1157,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/gallenboulevard.jpg",
                 "title": "Gallen Boulevard \u52a0\u502b\u5927\u9053",
-                "description": "Named after Gallen, a city in Switzerland."
+                "description": "Named after Gallen, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -1195,7 +1195,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/genevaeastavenue.jpg",
                 "title": "Geneva East Avenue \u65e5\u5167\u74e6\u5927\u9053\u6771",
-                "description": "Named after Geneva, a city in Switzerland."
+                "description": "Named after Geneva, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -1214,7 +1214,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/genevasouthavenue.jpg",
                 "title": "Geneva South Avenue \u65e5\u5167\u74e6\u5927\u9053\u5357",
-                "description": "Named after Geneva, a city in Switzerland."
+                "description": "Named after Geneva, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -1233,7 +1233,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/genovaboulevard.jpg",
                 "title": "Genova Boulevard \u73cd\u8afe\u83ef\u5927\u9053",
-                "description": "Named after Genova, a city in Italy."
+                "description": "Named after Genova, a city in Italy. Part of the Riva development."
             }
         },
         {
@@ -1423,7 +1423,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/haut-brionavenue.jpg",
                 "title": "Haut-Brion Avenue \u6bd4\u6602\u5927\u9053",
-                "description": "Named after Haut-Brion, a ch\u00e2teau in France."
+                "description": "Named after Haut-Brion, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -1442,7 +1442,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/helorusboulevard.jpg",
                 "title": "Helorus Boulevard \u8335\u7f85\u6d1b\u65af\u5927\u9053",
-                "description": "Named after Helorus, a town in Italy."
+                "description": "Named after Helorus, a town in Italy. Part of the Riva development."
             }
         },
         {
@@ -1613,7 +1613,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/interlakenavenue.jpg",
                 "title": "Interlaken Avenue \u56e0\u7279\u62c9\u80af\u5927\u9053",
-                "description": "Named after Interlaken, a city in Switzerland."
+                "description": "Named after Interlaken, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -1689,7 +1689,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtonavenue.jpg",
                 "title": "Kensington Avenue \u9038\u6797\u8def",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the One Hyde Park development."
             }
         },
         {
@@ -1708,7 +1708,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtondrive.jpg",
                 "title": "Kensington Drive \u9038\u6797\u5f91",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the One Hyde Park development."
             }
         },
         {
@@ -1727,7 +1727,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtonlane.jpg",
                 "title": "Kensington Lane \u9038\u6797\u91cc",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the One Hyde Park development."
             }
         },
         {
@@ -1746,7 +1746,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtonpath.jpg",
                 "title": "Kensington Path \u80af\u8f9b\u9813\u5f91",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the The Royal Oaks development."
             }
         },
         {
@@ -1765,7 +1765,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtonroad.jpg",
                 "title": "Kensington Road \u9038\u6797\u9053",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the One Hyde Park development."
             }
         },
         {
@@ -1784,7 +1784,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kensingtonsquare.jpg",
                 "title": "Kensington Square \u9038\u6797\u574a",
-                "description": "Named after Kensington, an area in London, England."
+                "description": "Named after Kensington, an area in London, England. Part of the One Hyde Park development."
             }
         },
         {
@@ -1974,7 +1974,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/lafiteavenue.jpg",
                 "title": "Lafite Avenue \u6d1b\u83f2\u5927\u9053",
-                "description": "Named after Lafite, a ch\u00e2teau in France."
+                "description": "Named after Lafite, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -2031,7 +2031,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/latouravenue.jpg",
                 "title": "Latour Avenue \u6d1b\u5716\u5927\u9053",
-                "description": "Named after Latour, a ch\u00e2teau in France."
+                "description": "Named after Latour, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -2050,7 +2050,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/lausanneavenue.jpg",
                 "title": "Lausanne Avenue \u6d1b\u68ee\u5927\u9053",
-                "description": "Named after Lausanne, a city in Switzerland."
+                "description": "Named after Lausanne, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2088,7 +2088,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/locarnoavenue.jpg",
                 "title": "Locarno Avenue \u6d1b\u5361\u8afe\u5927\u9053",
-                "description": "Named after Locarno, a city in Switzerland."
+                "description": "Named after Locarno, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2164,7 +2164,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/luzernboulevard.jpg",
                 "title": "Luzern Boulevard \u7409\u68ee\u5927\u9053",
-                "description": "Named after Luzern, a city in Switzerland."
+                "description": "Named after Luzern, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2259,7 +2259,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/margauxavenue.jpg",
                 "title": "Margaux Avenue \u746a\u6b4c\u5927\u9053",
-                "description": "Named after Margaux, a ch\u00e2teau in France."
+                "description": "Named after Margaux, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -2278,7 +2278,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/marinavenue.jpg",
                 "title": "Marin Avenue \u9ea5\u862d\u5f91",
-                "description": "Named after Marin, a county in California, USA."
+                "description": "Named after Marin, a county in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -2316,7 +2316,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/melroseavenue.jpg",
                 "title": "Melrose Avenue \u7c73\u8def\u65af\u5f91",
-                "description": "Named after Melrose, a entertainment destination in Los Angeles, USA."
+                "description": "Named after Melrose, a entertainment destination in Los Angeles, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -2373,7 +2373,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/milanoviale.jpg",
                 "title": "Milano Viale \u7c73\u840a\u8afe\u5927\u9053",
-                "description": "Named after Milano, a city in Italy."
+                "description": "Named after Milano, a city in Italy. Part of the Crescendo development."
             }
         },
         {
@@ -2487,7 +2487,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/montereyavenue.jpg",
                 "title": "Monterey Avenue \u8499\u7279\u840a\u5f91",
-                "description": "Named after Monterey, a city in California, USA."
+                "description": "Named after Monterey, a city in California, USA. Part of the Palm Springs development."
             }
         },
         {
@@ -2506,7 +2506,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/montereydrive.jpg",
                 "title": "Monterey Drive \u82b1\u5712\u5f91",
-                "description": "Named after Monterey, a city in California, USA."
+                "description": "Named after Monterey, a city in California, USA. Part of the Palm Springs development."
             }
         },
         {
@@ -2525,7 +2525,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/montreuxavenue.jpg",
                 "title": "Montreux Avenue \u8499\u7279\u52d2\u5927\u9053",
-                "description": "Named after Montreux, a town in Switzerland."
+                "description": "Named after Montreux, a town in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2563,7 +2563,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/moritzavenue.jpg",
                 "title": "Moritz Avenue \u83ab\u91cc\u8332\u5927\u9053",
-                "description": "Named after Moritz, a town in Switzerland."
+                "description": "Named after Moritz, a town in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2601,7 +2601,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/moutonavenue.jpg",
                 "title": "Mouton Avenue \u7f8e\u51ac\u5927\u9053",
-                "description": "Named after Mouton, a ch\u00e2teau in France."
+                "description": "Named after Mouton, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -2677,7 +2677,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/napaavenue.jpg",
                 "title": "Napa Avenue \u7d0d\u67cf\u5f91",
-                "description": "Named after Napa, a city in California, USA."
+                "description": "Named after Napa, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -2715,7 +2715,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/neuchatelavenue.jpg",
                 "title": "Neuchatel Avenue \u7d0d\u6c99\u6cf0\u723e\u5927\u9053",
-                "description": "Named after Neuchatel, a city in Switzerland."
+                "description": "Named after Neuchatel, a city in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -2847,8 +2847,8 @@
                 "country": "England",
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/oxfordlane.jpg",
-                "title": "Oxford Lane \u725b\u6d25\u5f91",
-                "description": "Named after Oxford, a city in England."
+                "title": "Oxford Path \u725b\u6d25\u5f91",
+                "description": "Named after Oxford, a city in England. Part of the The Royal Oaks development."
             }
         },
         {
@@ -2905,7 +2905,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/palmspringsboulevard.jpg",
                 "title": "Palm Springs Boulevard \u52a0\u5dde\u82b1\u5712\u5927\u9053",
-                "description": "Named after Palm Springs, a city in California, USA."
+                "description": "Named after Palm Springs, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -2924,7 +2924,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/pasadenaavenue.jpg",
                 "title": "Pasadena Avenue \u82ad\u4e39\u5a1c\u5f91",
-                "description": "Named after Pasadena, a city in California, USA."
+                "description": "Named after Pasadena, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3019,7 +3019,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/petrusavenue.jpg",
                 "title": "Petrus Avenue \u8c9d\u7fe0\u5927\u9053",
-                "description": "Named after Petrus, a ch\u00e2teau in France."
+                "description": "Named after Petrus, a ch\u00e2teau in France. Part of the Vineyard development."
             }
         },
         {
@@ -3133,7 +3133,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/rheinavenue.jpg",
                 "title": "Rhein Avenue \u840a\u8335\u6cb3\u5927\u9053",
-                "description": "Named after Rhein, a river in Switzerland."
+                "description": "Named after Rhein, a river in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -3171,7 +3171,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/rigiavenue.jpg",
                 "title": "Rigi Avenue \u745e\u5947\u5927\u9053",
-                "description": "Named after Rigi, a mountain in Switzerland."
+                "description": "Named after Rigi, a mountain in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -3190,7 +3190,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/romaviale.jpg",
                 "title": "Roma Viale \u6d1b\u8513\u5927\u9053",
-                "description": "Named after Rome, a city in Italy."
+                "description": "Named after Rome, a city in Italy. Part of the Crescendo development."
             }
         },
         {
@@ -3209,7 +3209,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ruedebordeaux.jpg",
                 "title": "Rue De Bordeaux \u6ce2\u723e\u591a\u5f91",
-                "description": "Named after Bordeaux, a city in France."
+                "description": "Named after Bordeaux, a city in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -3228,7 +3228,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ruedecannes.jpg",
                 "title": "Rue De Cannes \u5eb7\u57ce\u5f91",
-                "description": "Named after Cannes, a city in France."
+                "description": "Named after Cannes, a city in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -3247,7 +3247,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ruedelyon.jpg",
                 "title": "Rue De Lyon \u91cc\u6602\u5f91",
-                "description": "Named after Lyon, a city in France."
+                "description": "Named after Lyon, a city in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -3266,7 +3266,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ruedemarseille.jpg",
                 "title": "Rue De Marseille \u99ac\u8cfd\u5f91",
-                "description": "Named after Marseille, a city in France."
+                "description": "Named after Marseille, a city in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -3285,7 +3285,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/ruedenice.jpg",
                 "title": "Rue De Nice \u5c3c\u65af\u5f91",
-                "description": "Named after Nice, a city in France."
+                "description": "Named after Nice, a city in France. Part of the Seasons Villas development."
             }
         },
         {
@@ -3323,7 +3323,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sacramentoavenue.jpg",
                 "title": "Sacramento Avenue \u838e\u6587\u675c\u5f91",
-                "description": "Named after Sacramento, a capital city of California, USA."
+                "description": "Named after Sacramento, a capital city of California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3380,7 +3380,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sandiegoavenue.jpg",
                 "title": "San Diego Avenue \u8056\u5730\u7259\u54e5\u5f91",
-                "description": "Named after San Diego, a city in California, USA."
+                "description": "Named after San Diego, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3399,7 +3399,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sanfranciscoavenue.jpg",
                 "title": "San Francisco Avenue \u8056\u68b5\u54e5\u5f91",
-                "description": "Named after San Francisco, a city in California, USA."
+                "description": "Named after San Francisco, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3437,7 +3437,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sansimeonavenue.jpg",
                 "title": "San Simeon Avenue \u897f\u8499\u5f91",
-                "description": "Named after San Simeon, a town in California, USA."
+                "description": "Named after San Simeon, a town in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3456,7 +3456,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/santabarbaraavenue.jpg",
                 "title": "Santa Barbara Avenue \u8056\u5df4\u62ff\u5f91",
-                "description": "Named after Santa Barbara, a city in California, USA."
+                "description": "Named after Santa Barbara, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3475,7 +3475,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/santaclaraavenue.jpg",
                 "title": "Santa Clara Avenue \u8056\u54e5\u62c9\u5f91",
-                "description": "Named after Santa Clara, a city in California, USA."
+                "description": "Named after Santa Clara, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3494,7 +3494,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/santamariaavenue.jpg",
                 "title": "Santa Maria Avenue \u746a\u5229\u4e9e\u5f91",
-                "description": "Named after Santa Maria, a city in California, USA."
+                "description": "Named after Santa Maria, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3513,7 +3513,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/santamonicaavenue.jpg",
                 "title": "Santa Monica Avenue \u8499\u5c3c\u5361\u5f91",
-                "description": "Named after Santa Monica, a city in California, USA."
+                "description": "Named after Santa Monica, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -3722,7 +3722,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sienaavenue.jpg",
                 "title": "Siena Avenue \u6d77\u6f84\u6e56\u7554\u8def",
-                "description": "Named after Siena, a city in Italy."
+                "description": "Named after Siena, a city in Italy. Part of the Discovery Bay development."
             }
         },
         {
@@ -3741,7 +3741,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sienaonedrive.jpg",
                 "title": "Siena One Drive \u6d77\u6f84\u5f91\u4e00\u6bb5",
-                "description": "Named after Siena, a city in Italy."
+                "description": "Named after Siena, a city in Italy. Part of the Discovery Bay development."
             }
         },
         {
@@ -3760,7 +3760,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sienatwodrive.jpg",
                 "title": "Siena Two Drive \u6d77\u6f84\u5f91\u4e8c\u6bb5",
-                "description": "Named after Siena, a city in Italy."
+                "description": "Named after Siena, a city in Italy. Part of the Discovery Bay development."
             }
         },
         {
@@ -3817,7 +3817,7 @@
                 "region": "Britain",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/somersetpath.jpg",
                 "title": "Somerset Path \u68ee\u9ebb\u5be6\u5f91",
-                "description": "Named after Somerset, a county in England."
+                "description": "Named after Somerset, a county in England. Part of the The Royal Oaks development."
             }
         },
         {
@@ -4273,7 +4273,7 @@
                 "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/venturaavenue.jpg",
                 "title": "Ventura Avenue \u6eab\u9edb\u5a1c\u5f91",
-                "description": "Named after Ventura, a city in California, USA."
+                "description": "Named after Ventura, a city in California, USA. Part of the Royal Palms development."
             }
         },
         {
@@ -4634,7 +4634,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/zermattavenue.jpg",
                 "title": "Zermatt Avenue \u7b56\u99ac\u7279\u5927\u9053",
-                "description": "Named after Zermatt, a municipality in Switzerland."
+                "description": "Named after Zermatt, a municipality in Switzerland. Part of the Valais development."
             }
         },
         {
@@ -4653,7 +4653,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/zurichavenue.jpg",
                 "title": "Zurich Avenue \u8607\u9ece\u4e16\u5927\u9053",
-                "description": "Named after Zurich, a city in Switzerland."
+                "description": "Named after Zurich, a city in Switzerland. Part of the Valais development."
             }
         }
     ]
