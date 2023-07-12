@@ -10,8 +10,10 @@ const map = new mapboxgl.Map({
     style: "mapbox://styles/dpang311/ck21xo59h0cht1cmm2wjrmoki",
     center: [114.147, 22.325],
     zoom: 10,
-    maxBounds: bounds
+    maxBounds: bounds,
 });
+
+
 
 const layer = {
     id: "place-layer",
@@ -56,6 +58,9 @@ const layer = {
         ]
     }
 }
+
+
+
 
 const lineColors = ['#72E0C1', '#F9D25B', '#867DCD', '#CB5780', '#52B7FF', '#CDD1DA'];
 const layerNames = [
@@ -138,6 +143,10 @@ map.on("load", () => {
 
         // TODO Highlight the marker
         // Ref : https://docs.mapbox.com/mapbox-gl-js/api/markers/#popup#toggleclassname
+
+
+        //TODO add clusters
+        //Ref: https://docs.mapbox.com/mapbox-gl-js/example/cluster/
     })
 
     map.on('mouseleave', 'places', () => {
