@@ -22,8 +22,8 @@
 /* MAP TOOLTIPS */
 
 #hkstreets-map .mapboxgl-popup {
-    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    max-width: 480px;
+    font: 14px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    max-width: 500px;
 }
 
 #hkstreets-map .popup .mapboxgl-popup-content {
@@ -38,16 +38,28 @@
 
 
 
+
 #hkstreets-map .mapboxgl-popup-close-button:focus-visible {
     outline-style: none !important;
     opacity: 0.7;
 }
 
 
-.popupdiv{
-    word-wrap: break-word;
-    white-space: normal;
-
+.mapboxgl-popup{
+    transform:none !important;
+    top: 5%;
+    left: 5%;
+}
+.mapboxgl-popup-anchor-top .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-center .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-right .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-top-right .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-top-left .mapboxgl-popup-tip{
+    display:none !important;
 }
 
 
@@ -57,19 +69,19 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    margin-right: 20px;
+    margin-right: 40px;
     margin-bottom: 40px;
-    padding: 10px;
+    padding: 14px;
     overflow: auto;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
     height:auto;
     width: auto;
-    line-height: 18px;
+    line-height: 22px;
     border-radius: 8px;
     background-color: #2a3f4d;
     color: white;
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 16px;
     opacity: 0.85;
     box-sizing: border-box;
 }
