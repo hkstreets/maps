@@ -754,11 +754,11 @@
             },
             "properties": {
                 "place": "Cleveland",
-                "country": "Unknown",
-                "region": "Others",
+                "country": "USA",
+                "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/clevelandstreet.jpg",
                 "title": "Cleveland Street \u52a0\u5be7\u8857",
-                "description": "Cleveland is a name shared by several notable locations worldwide, including a city in Ohio, a historic region in England, a Brisbane suburb, a southeastern Tennessee city, and a Mississippi Delta city. The origin of the street name is unknown."
+                "description": "Jardine Matheson has been a prominent business institution in Causeway Bay since the early development of Hong Kong. The streets in the area were named after North American cities that had trade relations with the company."
             }
         },
         {
@@ -1552,11 +1552,11 @@
             },
             "properties": {
                 "place": "Houston",
-                "country": "Unknown",
-                "region": "Others",
+                "country": "USA",
+                "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/houstonstreet.jpg",
                 "title": "Houston Street \u539a\u8aa0\u8857",
-                "description": "The most well-known Houston is the largest city in Texas and the fourth-largest in the US. There are also smaller locations with the same name in Mississippi, Missouri, and Alaska. The origin of the street name is unknown."
+                "description": "Jardine Matheson has been a prominent business institution in Causeway Bay since the early development of Hong Kong. The streets in the area were named after North American cities that had trade relations with the company."
             }
         },
         {
@@ -1875,11 +1875,11 @@
             },
             "properties": {
                 "place": "Kingston",
-                "country": "Unknown",
-                "region": "Others",
+                "country": "USA",
+                "region": "Americas",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/kingstonstreet.jpg",
                 "title": "Kingston Street \u4eac\u58eb\u9813\u8857",
-                "description": "There are several notable locations around the world named Kingston, including the capital of Jamaica, a historic town in England, a city in eastern Canada, the first capital of New York State in the United States, the capital of Norfolk Island, and a suburb in Tasmania, Australia. The origin of the street name is unknown."
+                "description": "Jardine Matheson has been a prominent business institution in Causeway Bay since the early development of Hong Kong. The streets in the area were named after North American cities that had trade relations with the company."
             }
         },
         {
@@ -2411,7 +2411,7 @@
                 "region": "Europe",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/mindenrow.jpg",
                 "title": "Minden Row \u7dec\u7538\u81fa",
-                "description": "Named after British Royal Navy ship 'HMS Minden', taking its name from the Battle of Minden, which took place in the German town Minden."
+                "description": "Named after British Royal Navy ship 'HMS Minden', taking its name from the Battle of Minden, which took place in the German town Minden. The Chinese name mistakenly references Myanmar, the Asian country."
             }
         },
         {
@@ -3415,10 +3415,10 @@
             "properties": {
                 "place": "Jardim de San Francisco",
                 "country": "Macau",
-                "region": "China",
+                "region": "Others",
                 "image": "https://raw.githubusercontent.com/hkstreets/maps/main/content/projects/asia-world-city/images/sanfranciscopath.jpg",
                 "title": "San Francisco Path \u820a\u91d1\u5c71\u5f91",
-                "description": "San Francisco Path, located in an area developed by Portuguese businessman Soares, is likely a tribute to the oldest garden in Macau, San Francisco Garden (Jardim de San Francisco), which was designed with the help of his father."
+                "description": "San Francisco Path, located in an area developed by Portuguese businessman Soares, is likely a tribute to the oldest garden in Macau, San Francisco Garden (Jardim de San Francisco), which his father helped design. The Chinese name references San Francisco, the Californian city."
             }
         },
         {

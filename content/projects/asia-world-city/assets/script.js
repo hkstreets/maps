@@ -13,7 +13,8 @@ const map = new mapboxgl.Map({
     maxBounds: bounds,
 });
 
-
+const nav = new mapboxgl.NavigationControl();
+map.addControl(nav, 'top-right');
 
 const layer = {
     id: "place-layer",
@@ -23,21 +24,37 @@ const layer = {
         // The feature-state dependent circle-radius expression will render
         // the radius size according to its magnitude when
         // a feature's hover state is set to true
-        "circle-stroke-color": "#1C2B36",
-        "circle-stroke-opacity": .75,
+        "circle-stroke-color": [
+            "case",
+            ["boolean", ["feature-state", "hover"], false],
+            "#cddbe5",
+            "#3d5e76"
+        ],
+        "circle-stroke-opacity": [
+            "case",
+            ["boolean", ["feature-state", "hover"], false],
+            0.95,
+            0.75
+        ],
         "circle-opacity": [
             "case",
             ["boolean", ["feature-state", "hover"], false],
             1,
-            0.75
+            0.80
         ],
         "circle-radius": [
             "case",
             ["boolean", ["feature-state", "hover"], false],
-            6,
+            8,
             4
         ],
-        "circle-stroke-width": 0.5,
+        "circle-stroke-width":[
+            "case",
+            ["boolean", ["feature-state", "hover"], false],
+            1.8,
+            0.5
+        ],
+
         // The feature-state dependent circle-color expression will render
         // the color according to its magnitude when
         // a feature's hover state is set to true
@@ -47,14 +64,14 @@ const layer = {
             'Americas',
             '#72E0C1',
             'Asia',
-            '#F9D25B',
+            '#F6F69C',
             'Britain',
-            '#867DCD',
+            '#A993F6',
             'China',
-            '#CB5780',
+            '#FF9E92',
             'Europe',
-            '#52B7FF',
-            /* other */ '#ccc'
+            '#9BCBFF',
+            /* other */ '#CDD1DA'
         ]
     }
 }
@@ -62,7 +79,7 @@ const layer = {
 
 
 
-const lineColors = ['#72E0C1', '#F9D25B', '#867DCD', '#CB5780', '#52B7FF', '#CDD1DA'];
+const lineColors = ['#72E0C1', '#F6F69C', '#A993F6', '#FF9E92', '#9BCBFF', '#CDD1DA'];
 const layerNames = [
     'Americas',
     'Asia',
@@ -117,11 +134,34 @@ map.on("load", () => {
     map.addLayer(layer);
 
     // Add popup interactivity
-    map.on('mouseenter', 'place-layer', (e) => {
+    let hoverStateID = null;
+    map.on('mousemove', 'place-layer', (e) => {
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer';
 
-        // Reference place data
+        if (e.features.length > 0) {
+            if (hoverStateID) {
+                map.removeFeatureState({
+                    source: "places",
+                    id: hoverStateID
+                });
+            }
+
+            hoverStateID = e.features[0].id;
+
+            map.setFeatureState(
+                {
+                    source: "places",
+                    id: hoverStateID
+                },
+                {
+                    hover: true
+                }
+            );
+        }
+
+
+            // Reference place data
         const title = e.features[0].properties.title;
         const description = e.features[0].properties.description;
         const imageUrl = e.features[0].properties.image;
@@ -141,16 +181,29 @@ map.on("load", () => {
             "<img src=" + imageUrl + ">"
         ).addTo(map);
 
-        // TODO Highlight the marker
+        // TODO Highlight the marker, hover state
         // Ref : https://docs.mapbox.com/mapbox-gl-js/api/markers/#popup#toggleclassname
 
-
-        //TODO add clusters
-        //Ref: https://docs.mapbox.com/mapbox-gl-js/example/cluster/
     })
 
     map.on('mouseleave', 'places', () => {
-        map.getCanvas().style.cursor = '';
+        map.getCanvas().style.cursor = "";
         popup.remove();
+        if (hoverStateID) {
+            map.setFeatureState(
+                {
+                    source: "places",
+                    id: hoverStateID
+                },
+                {
+                    hover: false
+                }
+            );
+        }
+        hoverStateID = null;
+        // Reset the cursor style
+        map.getCanvas().style.cursor = "";
     });
+
+
 });
