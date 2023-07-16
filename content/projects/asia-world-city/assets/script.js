@@ -176,7 +176,7 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<h3 class='popupheader'>" + title + "</h3>" +
+            "<h5 class='popupheader'>" + title + "</h5>" +
             "<p>" + description + "</p>" +
             "<img src=" + imageUrl + ">"
         ).addTo(map);
