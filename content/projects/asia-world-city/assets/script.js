@@ -70,7 +70,7 @@ const layer = {
             'China',
             '#FF9E92',
             'Europe',
-            '#9BCBFF',
+            '#52B7FF',
             /* other */ '#CDD1DA'
         ]
     }
@@ -79,7 +79,7 @@ const layer = {
 
 
 
-const lineColors = ['#72E0C1', '#F6F69C', '#A993F6', '#FF9E92', '#9BCBFF', '#CDD1DA'];
+const lineColors = ['#72E0C1', '#F6F69C', '#A993F6', '#FF9E92', '#52B7FF', '#CDD1DA'];
 const layerNames = [
     'Americas',
     'Asia',
