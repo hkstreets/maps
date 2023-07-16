@@ -36,8 +36,9 @@
     max-width: 280px;
 }
 
-#popupheader{
+.popupheader {
     font: 20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 
