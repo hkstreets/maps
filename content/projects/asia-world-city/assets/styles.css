@@ -37,6 +37,7 @@
 }
 
 .popupheader {
+    margin-top: 8px;
     font: 20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     color: white;
 }
