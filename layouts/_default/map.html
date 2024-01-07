@@ -4,7 +4,7 @@
     {{end}}
 
     <!--  Styles  -->
-    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v{{ .Params.mapboxVersion }}/mapbox-gl.css" rel="stylesheet">
     {{ block "customStyle" . }}{{ with .Resources.GetMatch "assets/styles.css" }}
     <link href="{{ .Permalink }}" rel="stylesheet">
     {{ end }}{{ end }}
@@ -25,7 +25,7 @@
     </script>
     {{ end }}
     <!--  Scripts  -->
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v{{ .Params.mapboxVersion }}/mapbox-gl.js"></script>
     {{ block "customScript" . }}{{ with .Resources.GetMatch "assets/script.js" }}
     <script src="{{.Permalink}}"></script>{{ end }}{{ end }}
     {{ if .Site.Params.embedMode }}
