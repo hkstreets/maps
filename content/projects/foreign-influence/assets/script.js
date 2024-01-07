@@ -140,7 +140,7 @@ map.on("load", () => {
     createLegend(layerNames);
 
     // Hack : Resize map once correct height of container is set.
-    fixHeight("2040px");
+    fixHeight("840px");
 
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
