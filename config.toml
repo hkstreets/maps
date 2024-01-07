@@ -19,7 +19,7 @@ embedClass = 'hkfp'
 [author]
 name = "Streets of Hong Kong"
 headline = "Mapping projects by Diana Pang"
-  # image = "img/author.jpg"  # path relative to static directory
+# image = "img/author.jpg"  # path relative to static directory
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
