@@ -159,4 +159,5 @@ map.on("load", () => {
                 .addTo(map);
         });
     }
+    map.resize();
 });
