@@ -64,5 +64,5 @@ headline = "Mapping projects by Diana Pang"
 
 [module]
   [module.hugoVersion]
-    extended = false
-    min = "0.86.1"
+    extended = true
+    min = "0.121.1"
