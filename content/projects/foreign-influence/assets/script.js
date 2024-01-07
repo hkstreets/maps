@@ -140,8 +140,7 @@ map.on("load", () => {
     createLegend(layerNames);
 
     // Hack : Resize map once correct height of container is set.
-    fixHeight("840px");
-    map.resize();
+    fixHeight("2040px");
 
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
@@ -176,6 +175,8 @@ map.on("load", () => {
                 .addTo(map);
         });
     }
+    map.resize();
 });
 
 map.addControl(new mapboxgl.NavigationControl());
+
