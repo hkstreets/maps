@@ -129,10 +129,19 @@ const createLegend = () => {
     });
 }
 
+const fixHeight = (height) => {
+    let e = document.getElementById("hkstreets-map");
+    e.style.height = height;
+}
+
 map.on("load", () => {
 
     // create legend
-    createLegend(layerNames)
+    createLegend(layerNames);
+
+    // Hack : Resize map once correct height of container is set.
+    fixHeight("840px");
+    map.resize();
 
     // Add Sources
     for (const [sourceName, source] of Object.entries(sources)) {
