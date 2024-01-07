@@ -4,15 +4,18 @@ Mapping projects by [Diana Pang](https://dianapang.net/)
 
 ## Stack
 
-- [hugo](https://github.com/gohugoio/hugo) : static site generator
+- [go `v1.21.5`](https://go.dev/) : required for hugo
+- [hugo `v0.121.2`](https://github.com/gohugoio/hugo) : static site generator
+- [mapbox `v3.0.1`](https://www.mapbox.com/) : basemap & map interactivity
 - [cloudflare](https://dash.cloudflare.com/a6eeace4b6d9f8e07ab307964e74d801/pages/view/hkstreets) : CI & hosting
-- [mapbox](https://www.mapbox.com/) : basemap & map interactivity
 
 ## Hosting & Deployment
 
 - `main` branch deploys to [maps.dianapang.net](https://maps.dianapang.net/).
 - every last pushed commit and branch has its own preview page at `<commit>.hkstreets.pages.dev` or 
 `<branch>.hkstreets.pages.dev`.
+- `GO_VERSION` and `HUGO_VERSION` are set as [cloudflare](https://dash.cloudflare.com/a6eeace4b6d9f8e07ab307964e74d801/pages/view/hkstreets/settings/environment-variables)'s environment variables to control the versions.
+
 
 ## Domains
 
