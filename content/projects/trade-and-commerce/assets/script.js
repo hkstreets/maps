@@ -8,8 +8,8 @@ const bounds = [
 const map = new mapboxgl.Map({
     container: "hkstreets-map",
     style: "mapbox://styles/dpang311/cls0cekhg00kf01qsfb4ufdx0",
-    center: [114.18, 22.285],
-    zoom: 12,
+    center: [114.18066, 22.29508],
+    zoom: 13.02,
     maxBounds: bounds
 });
 
@@ -62,18 +62,18 @@ const layer = {
             'match',
             ['get', 'category'],
             'Merchant',
-            '#82A775',
+            '#79AC67',
             'Shipyard / Dockyard',
             '#3B727C',
             'Wharf / Godown',
             '#A5C4C6',
             'Compradores',
-            '#DCC1C9',
-            'Transfer House',
             '#B05F66',
+            'Transfer House',
+            '#757383',
             'Finance',
-            '#E7C675',
-            /* other */ '#DBDBDA'
+            '#DFA75A',
+            /* other */ '#D1BB9F'
         ]
     }
 }
@@ -81,7 +81,7 @@ const layer = {
 
 
 
-const lineColors = ['#82A775', '#3B727C', '#A5C4C6', '#DCC1C9', '#B05F66', '#E7C675', '#DBDBDA'];
+const lineColors = ['#79AC67', '#3B727C', '#A5C4C6', '#B05F66', '#757383', '#DFA75A', '#D1BB9F'];
 const layerNames = [
     'Merchant',
     'Shipyard / Dockyard',
@@ -178,9 +178,8 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<h5 class='popupheader'>" + title + "</h5>" +
+            "<h5 class='popupheader'>" + eng + "</h5>" +
             "<p>" + description + "</p>" +
-            "<img src=" + imageUrl + ">"
         ).addTo(map);
 
         // TODO Highlight the marker, hover state
