@@ -85,7 +85,7 @@ const lineColors = ['#79AC67', '#3B727C', '#A5C4C6', '#B05F66', '#757383', '#DFA
 const layerNames = [
     'Merchant',
     'Shipyard / Dockyard',
-    'Wharf / Godown'
+    'Wharf / Godown',
     'Compradores',
     'Transfer House',
     'Finance',
