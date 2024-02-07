@@ -7,7 +7,7 @@ const bounds = [
 
 const map = new mapboxgl.Map({
     container: "hkstreets-map",
-    style: "mmapbox://styles/dpang311/clkg4wdoy002j01pkh8sggw35",
+    style: "mapbox://styles/dpang311/clkg4wdoy002j01pkh8sggw35",
     center: [114.18066, 22.29508],
     zoom: 13.02,
     maxBounds: bounds
