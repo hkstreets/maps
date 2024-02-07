@@ -145,7 +145,7 @@ map.on("load", () => {
         if (e.features.length > 0) {
             if (hoverStateID) {
                 map.removeFeatureState({
-                    source: "places",
+                    source: "trade",
                     id: hoverStateID
                 });
             }
@@ -165,7 +165,8 @@ map.on("load", () => {
 
 
             // Reference place data
-        const title = e.features[0].properties.eng;
+        const title_eng = e.features[0].properties.eng;
+        const title_chi = e.features[0].properties.chi;
         const description = e.features[0].properties.description;
 
         // Ensure that if the map is zoomed out such that multiple
@@ -178,8 +179,8 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<h5 class='popupheader'>" + eng + "</h5>" +
-            "<p>" + description + "</p>" +
+            "<h4 class='popupheader'>" + title_eng + " - " + title_chi + "</h4>" +
+            "<p>" + description + "</p>"
         ).addTo(map);
 
         // TODO Highlight the marker, hover state
@@ -205,6 +206,5 @@ map.on("load", () => {
         // Reset the cursor style
         map.getCanvas().style.cursor = "";
     });
-
 
 });
