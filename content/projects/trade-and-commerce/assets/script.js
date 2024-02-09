@@ -64,29 +64,27 @@ const layer = {
             'match',
             ['get', 'category'],
             'Merchant',
-            '#AE9DBA',
+            '#7F3C8D',
             'Shipyard / Dockyard',
-            '#3B727C',
+            '#3969AC',
             'Wharf / Godown',
-            '#7CA2A1',
+            '#11A579',
             'Compradores',
-            '#B05F66',
+            '#CF1C90',
             'Transfer House',
-            '#e6a398',
+            '#f97b72',
             'Finance',
-            '#F5D080',
-            /* other */ '#D1BB9F'
+            '#F2B701',
+            /* other */ '#A5AA99'
         ]
     }
 }
 
 
-
-
-const lineColors = ['#AE9DBA', '#3B727C', '#7CA2A1', '#B05F66', '#e6a398', '#F5D080', '#D1BB9F'];
+const lineColors = ['#7F3C8D', '#3969AC', '#11A579', '#CF1C90', '#f97b72', '#F2B701', '#A5AA99'];
 const layerNames = [
     'Merchant',
-    'Shipyard / Dockyard',
+    'Shipyard / Dock',
     'Wharf / Godown',
     'Compradores',
     'Transfer House',

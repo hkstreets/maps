@@ -37,11 +37,11 @@
     overflow: auto;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
     height:188px;
-    width: 180px;
+    width: 152px;
     line-height: 24px;
     border-radius: 8px;
     background-color: #eff5f5;
-    color: gray;
+    color: #324b4e;
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     font-size: 14px;
     opacity: 0.85;
