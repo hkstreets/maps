@@ -8,13 +8,15 @@ const bounds = [
 const map = new mapboxgl.Map({
     container: "hkstreets-map",
     style: "mapbox://styles/dpang311/clkg4wdoy002j01pkh8sggw35",
-    center: [114.18066, 22.29508],
-    zoom: 13.02,
+    center: [114.18, 22.3],
+    zoom: 10,
     maxBounds: bounds
 });
 
+
 const nav = new mapboxgl.NavigationControl();
 map.addControl(nav, 'top-right');
+
 
 const layer = {
     id: "trade-layer",
@@ -62,17 +64,17 @@ const layer = {
             'match',
             ['get', 'category'],
             'Merchant',
-            '#79AC67',
+            '#AE9DBA',
             'Shipyard / Dockyard',
             '#3B727C',
             'Wharf / Godown',
-            '#A5C4C6',
+            '#7CA2A1',
             'Compradores',
             '#B05F66',
             'Transfer House',
-            '#757383',
+            '#e6a398',
             'Finance',
-            '#DFA75A',
+            '#F5D080',
             /* other */ '#D1BB9F'
         ]
     }
@@ -81,7 +83,7 @@ const layer = {
 
 
 
-const lineColors = ['#79AC67', '#3B727C', '#A5C4C6', '#B05F66', '#757383', '#DFA75A', '#D1BB9F'];
+const lineColors = ['#AE9DBA', '#3B727C', '#7CA2A1', '#B05F66', '#e6a398', '#F5D080', '#D1BB9F'];
 const layerNames = [
     'Merchant',
     'Shipyard / Dockyard',
@@ -179,7 +181,7 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<h4 class='popupheader'>" + title_eng + " - " + title_chi + "</h4>" +
+            "<h3 class='popupheader'>" + title_eng + " - " + title_chi + "</h3>" +
             "<p>" + description + "</p>"
         ).addTo(map);
 
