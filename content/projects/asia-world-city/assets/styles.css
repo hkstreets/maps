@@ -43,7 +43,6 @@
 }
 
 
-
 #hkstreets-map .mapboxgl-popup-close-button:focus-visible {
     outline-style: none !important;
     opacity: 0.7;

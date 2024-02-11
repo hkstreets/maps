@@ -10,7 +10,10 @@ const map = new mapboxgl.Map({
     style: "mapbox://styles/dpang311/clkg4wdoy002j01pkh8sggw35",
     center: [114.18, 22.3],
     zoom: 10,
-    maxBounds: bounds
+    maxBounds: bounds,
+    cluster: true,
+    clusterMaxZoom: 14, // Max zoom to cluster points on
+    clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
 });
 
 
@@ -65,7 +68,7 @@ const layer = {
             ['get', 'category'],
             'Merchant',
             '#7F3C8D',
-            'Shipyard / Dockyard',
+            'Shipyard / Dock',
             '#3969AC',
             'Wharf / Godown',
             '#11A579',
@@ -179,7 +182,7 @@ map.on("load", () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.lngLat).setHTML(
-            "<h3 class='popupheader'>" + title_eng + " - " + title_chi + "</h3>" +
+            "<h3 class='popupheader'>" + title_eng + " " + title_chi + "</h3>" +
             "<p>" + description + "</p>"
         ).addTo(map);
 

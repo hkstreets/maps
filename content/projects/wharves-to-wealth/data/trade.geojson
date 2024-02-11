@@ -1,0 +1,1503 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1516885,22.2803226 ]
+    },
+    "properties": {
+    "eng":"Chico Terrace",
+    "chi":"芝古臺",
+    "category":"Compradores",
+    "company":"Banco Ultramarino of Macao",
+    "description":"Named after the nickname of businessman Francisco Yat-Tse. He was the owner of Wing Kee Shipping and was the first Comparadore of Banco Ultramarino of Macao. He was known as \"Chico\" by the local Portuguese community. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1417016,22.2803703 ]
+    },
+    "properties": {
+    "eng":"Po Shan Road",
+    "chi":"寶珊道",
+    "category":"Compradores",
+    "company":"Chartered Mercantile Bank of India, London and China",
+    "description":"Named after Hong Kong businessman Sir Boshan Wei Yuk. He served as the head compradore of Chartered Mercantile Bank of India, London and China, and a member of the Legislative Council. He chaired Tung Wah Hospital and co-founding the Po Leung Kuk."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1798734,22.3302393 ]
+    },
+    "properties": {
+    "eng":"Ho Tung Road",
+    "chi":"何東道",
+    "category":"Compradores",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after businessman Sir Robert Hotung. He was Head Compradore at Jardines and was a director of Hong Kong Land and a board member of Tung Wah Hospital. By the age of 35, he was believed to be the richest man in Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.148058,22.2864329 ]
+    },
+    "properties": {
+    "eng":"Fat Hing Street",
+    "chi":"發興街",
+    "category":"Compradores",
+    "company":"Peninsular and Oriental Steam Navigation Company",
+    "description":"Named after Fat Hing Hong, founded by early settler and Chinese business pioneer Kwok A-Cheong. Initially a comprador for P&O, he led its shipwright and engineering department, and became Hong Kong's third-largest ratepayer by 1876."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1783377,22.2470721 ]
+    },
+    "properties": {
+    "eng":"Shouson Hill Road",
+    "chi":"壽山村道",
+    "category":"Finance",
+    "company":"Bank of East Asia",
+    "description":"Named after Hong Kong businessman Sir Shouson Chow. He co-founded the Bank of East Asia and held various important positions in the government and was the first Chinese member of the Executive Council."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1829097,22.2483905 ]
+    },
+    "properties": {
+    "eng":"Shouson Hill Road East",
+    "chi":"壽臣山道東",
+    "category":"Finance",
+    "company":"Bank of East Asia",
+    "description":"Named after Hong Kong businessman Sir Shouson Chow. He co-founded the Bank of East Asia and held various important positions in the government and was the first Chinese member of the Executive Council."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.180698,22.2512093 ]
+    },
+    "properties": {
+    "eng":"Shouson Hill Road West",
+    "chi":"壽臣山道西",
+    "category":"Finance",
+    "company":"Bank of East Asia",
+    "description":"Named after Hong Kong businessman Sir Shouson Chow. He co-founded the Bank of East Asia and held various important positions in the government and was the first Chinese member of the Executive Council."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1780338,22.2982202 ]
+    },
+    "properties": {
+    "eng":"Mody Lane",
+    "chi":"麼地里",
+    "category":"Finance",
+    "company":"Chater & Mody",
+    "description":"Named after Indian Parsi businessman Sir Hormusjee Naorojee Mody, he co-founded the University of Hong Kong and developed Kowloon through his brokerage, Chater and Mody. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1754917,22.2972814 ]
+    },
+    "properties": {
+    "eng":"Mody Road",
+    "chi":"麼地道",
+    "category":"Finance",
+    "company":"Chater & Mody",
+    "description":"Named after Indian Parsi businessman Sir Hormusjee Naorojee Mody, he co-founded the University of Hong Kong and developed Kowloon through his brokerage, Chater and Mody. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1770241,22.2984897 ]
+    },
+    "properties": {
+    "eng":"Mody Square",
+    "chi":"麼地廣場",
+    "category":"Finance",
+    "company":"Chater & Mody",
+    "description":"Named after Indian Parsi businessman Sir Hormusjee Naorojee Mody, he co-founded the University of Hong Kong and developed Kowloon through his brokerage, Chater and Mody. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1467587,22.2842839 ]
+    },
+    "properties": {
+    "eng":"Rutter Street",
+    "chi":"律打街",
+    "category":"Finance",
+    "company":"Commercial Bank of India | Hughesdon Calder & Co.",
+    "description":"Named after British exchange broker and financial writer Henry Rutter. He was an agent at Commercial Bank of India and a partner at Hughesdon Calder & Co. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1604668,22.2803218 ]
+    },
+    "properties": {
+    "eng":"Jackson Road",
+    "chi":"昃臣道",
+    "category":"Finance",
+    "company":"HSBC",
+    "description":"Named after Irish banker Sir Thomas Jackson, who was the third Chief Manager of HSBC. He had served ten years in the bank and was only 35 years old at the time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1458016,22.287469 ]
+    },
+    "properties": {
+    "eng":"Sutherland Street",
+    "chi":"修打蘭街",
+    "category":"Finance",
+    "company":"HSBC",
+    "description":"Named after Scottish banker and politician Sir Thomas Sutherland, who founded HSBC and directed the P&O Company. He was the first chairman of the Hong Kong and Whampoa Dock."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1425796,22.2841996 ]
+    },
+    "properties": {
+    "eng":"Babington Path",
+    "chi":"巴丙頓道",
+    "category":"Finance",
+    "company":"National Bank of China | Shewan, Tomes & Co.",
+    "description":"Named after British businessman Anthony Babington. He was a manager of National Bank of China's branch in Yokohama and later became the director of Shewan, Tomes & Co., a company which contributed the to the foundation of the CLP."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1786062,22.3421616 ]
+    },
+    "properties": {
+    "eng":"Ede Road",
+    "chi":"義德道",
+    "category":"Finance",
+    "company":"Union Insurance Society",
+    "description":"Named after British businessman Charles Montague Ede. He was the general manager of Union Insurance Society of Canton, and was responsible for developing Kowloon Tong. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1599187,22.2802149 ]
+    },
+    "properties": {
+    "eng":"Bank Street",
+    "chi":"銀行街",
+    "category":"Finance",
+    "company":"",
+    "description":"Named after the headquarters of HSBC nearby."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1562447,22.286018 ]
+    },
+    "properties": {
+    "eng":"Finance Street",
+    "chi":"金融街",
+    "category":"Finance",
+    "company":"",
+    "description":"Named after International Finance Centre nearby."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1772431,22.277471 ]
+    },
+    "properties": {
+    "eng":"Heard Street",
+    "chi":"克街",
+    "category":"Merchant",
+    "company":"Augustine & Co.",
+    "description":"Named after American merchant Augustine Heard, who co-founded Augustine and Co., a tea and opium trading company in Canton and the third-largest American firm in China in the mid-19th century which introduced also steamships to China."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.151188,22.28537572 ]
+    },
+    "properties": {
+    "eng":"Burd Street",
+    "chi":"畢街",
+    "category":"Merchant",
+    "company":"Burd & Co.",
+    "description":"Named after Scottish sea captain and merchant John Burd, who co-founded John Burd and Co., a merchant and mariner company in Canton, which moved to Hong Kong in 1842. He was appointed as the inaugural Danish consul in Hong Kong in 1845."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1766734,22.2762477 ]
+    },
+    "properties": {
+    "eng":"Burrows Street",
+    "chi":"巴路士街",
+    "category":"Merchant",
+    "company":"Burrows & Sons",
+    "description":"Named after Amercian merchant Silas Enoch Burrows, who founded a shipping business in New York, San Francisco, and Hong Kong. He was known for aiding shipwrecked mariners, including those from Sir John Franklin’s Arctic expedition."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1554545,22.279906 ]
+    },
+    "properties": {
+    "eng":"Glenealy",
+    "chi":"己連拿利",
+    "category":"Merchant",
+    "company":"Dent & Co.",
+    "description":"Named after the residence of Dent & Co.'s taipan."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1720549240928, 22.275786466240785 ]
+    },
+    "properties": {
+    "eng":"Amoy Street",
+    "chi":"廈門街",
+    "category":"Merchant",
+    "company":"Dent & Co.",
+    "description":"Named after Xiamen (formerly known as Amoy), a Chinese port city. Dent & Co., which established docks to serve this trade route, had trade relations with Xiamen."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17174494845763, 22.275883936841307 ]
+    },
+    "properties": {
+    "eng":"Swatow Street",
+    "chi":"汕頭街",
+    "category":"Merchant",
+    "company":"Dent & Co.",
+    "description":"Named after Shantou (formerly known as Swatow), a Chinese port city. Dent & Co., which established docks to serve this trade route, had trade relations with Xiamen."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17262559980757, 22.275359714765667 ]
+    },
+    "properties": {
+    "eng":"Spring Garden Lane",
+    "chi":"春園街",
+    "category":"Merchant",
+    "company":"Dent & Co.",
+    "description":"Named after the villa of opium merchant John Dent of Dent & Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1682139,22.2804167 ]
+    },
+    "properties": {
+    "eng":"Fenwick Pier Street",
+    "chi":"分域碼頭街",
+    "category":"Shipyard / Dock",
+    "company":"Fenwick & Co.",
+    "description":"Named after British enginner George Fenwick, who was the owner of shipyard in Wanchai. In 1884, Fenwick established Fenwick & Co, where he served as the Engineer and eventually became the Manager."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1553248,22.2862651 ]
+    },
+    "properties": {
+    "eng":"Gilman Street",
+    "chi":"機利文街",
+    "category":"Merchant",
+    "company":"Gilman & Bowman",
+    "description":"Named after merchant Richard James Gilman. He was a tea-taster at Dent's in Canton and co-founded Gilman & Bowman. The firm was known for its role in the 1866 tea race and establishment of HSBC in 1864."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1542323,22.2849277 ]
+    },
+    "properties": {
+    "eng":"Gilman's Bazaar",
+    "chi":"機利文新街",
+    "category":"Merchant",
+    "company":"Gilman & Bowman",
+    "description":"Named after merchant Richard James Gilman. He was a tea-taster at Dent's in Canton and co-founded Gilman & Bowman. The firm was known for its role in the 1866 tea race and establishment of HSBC in 1864."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.158573,22.2753149 ]
+    },
+    "properties": {
+    "eng":"Calder Path",
+    "chi":"歌老打路",
+    "category":"Merchant",
+    "company":"Hughesdon Calder & Co ",
+    "description":"Named after American merchant Alexander Calder, who traded opium and China sycee silver. He was a partner at Hughesdon, Calder & Co., and served as a director of the Marine Investment Company and Danish consul in Shanghai around 1851."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.18637916050714, 22.278533208667138 ]
+    },
+    "properties": {
+    "eng":"Keswick Street",
+    "chi":"敬誠街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish businessman James Johnstone Keswick who served as the taipan of Jardine Matheson & Co. He co-founded Hongkong Land with Sir Paul Chater. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1689137,22.2772383 ]
+    },
+    "properties": {
+    "eng":"Anton Street",
+    "chi":"晏頓街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish businessman Charles Edward Anton. He was the 16th tai-pan of the Jardine, Matheson & Co. and a member of the Hong Kong General Chamber of Commerce and the Legislative Council of Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1859462,22.3067242 ]
+    },
+    "properties": {
+    "eng":"Bulkeley Street",
+    "chi":"寶其利街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after British businessman Francis Bulkeley Johnson, a partner of Jardine, Matheson & Co. and Hong Kong Legislative Council member. He proposed the Tramways Ordinance in 1881, leading to the Hongkong Tramways' establishment in 1904."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17001269304454, 22.276744203153964 ]
+    },
+    "properties": {
+    "eng":"Gresson Street",
+    "chi":"機利臣街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after British merchant and politician William Jardine Gresson. He was a partner in Jardine Matheson & Co. and served on several councils in Shanghai and Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1852333,22.2795688 ]
+    },
+    "properties": {
+    "eng":"Jardine's Bazaar",
+    "chi":"渣甸街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish physician turned opium merchant William Jardine, co-founder of Jardine, Matheson & Co. He played a significant role in expanding trade with China, promoting the opium trade, and instigating the First Opium War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1848805,22.2792627 ]
+    },
+    "properties": {
+    "eng":"Jardine's Crescent",
+    "chi":"渣甸坊",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish physician turned opium merchant William Jardine, co-founder of Jardine, Matheson & Co. He played a significant role in expanding trade with China, promoting the opium trade, and instigating the First Opium War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2,22.26744079 ]
+    },
+    "properties": {
+    "eng":"Jardine's Lookout",
+    "chi":"渣甸山",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish physician turned opium merchant William Jardine, co-founder of Jardine, Matheson & Co. He played a significant role in expanding trade with China, promoting the opium trade, and instigating the First Opium War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [114.16933811580462, 22.277160159612528 ]
+    },
+    "properties": {
+    "eng":"Landale Street",
+    "chi":"蘭杜街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after British businessman David Landale. He was the 13th Tai-pan of the Jardine Matheson & Co. and member of the Executive Council and Legislative Council of Hong Kong. He was also a director of HSBC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1824918,22.2772805 ]
+    },
+    "properties": {
+    "eng":"Matheson Street",
+    "chi":"勿地臣街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish businessman Sir James Matheson, co-founded Jardine Matheson & Co. He played a significant role in expanding trade with China, promoting the opium trade, and instigating the First Opium War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1850067,22.2819639 ]
+    },
+    "properties": {
+    "eng":"Paterson Street",
+    "chi":"百德新街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish businessman John Johnstone Paterson, who was a Jardine’s taipan and thrice chaired HSBC between 1932 and 1941. During World War II's Battle of Hong Kong, he led the Special Guard Company of the Hong Kong Volunteer Defence Corps."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1827264,22.2798106 ]
+    },
+    "properties": {
+    "eng":"Percival Street",
+    "chi":"波斯富街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Irish businessman Alexander Perceval, a Jardine's Taipan, an unofficial member of Hong Kong's Legislative Council (1860-1864), and the first chairman of the Hong Kong General Chamber of Commerce."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1855432,22.2799265 ]
+    },
+    "properties": {
+    "eng":"Yee Wo Street",
+    "chi":"怡和街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after the Chinese name of Jardine, Matheson & Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [114.18651245209112, 22.278950324615778 ]
+    },
+    "properties": {
+    "eng":"Irving Street",
+    "chi":"伊榮街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Scottish businessman James Jardine Bell-Irving. He was a partner at Jardine Matheson & Co., and held positions such as chairman of the HSBC and member of Hong Kong's Legislative and Executive Councils."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1871476,22.280029 ]
+    },
+    "properties": {
+    "eng":"Sugar Street",
+    "chi":"糖街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Jardine Matheson & Co.'s China Sugar Refining Company in the area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.18799305853757,22.2771205388904 ]
+    },
+    "properties": {
+    "eng":"Cotton Path",
+    "chi":"棉花路",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Jardine Matheson & Co.'s Hong Kong Cotton Spinning, Weaving, Dyeing Company in the area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [114.18524843704789, 22.28218721257354]
+    },
+    "properties": {
+    "eng":"Houston Street",
+    "chi":"厚誠街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Houston, a North American city with trade relations with Jardine Matheson & Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.18559287315837, 22.282271551009277]
+    },
+    "properties": {
+    "eng":"Cleveland Street",
+    "chi":"加寧街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Cleveland, a North American city with trade relations with Jardine Matheson & Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [114.18614109973244, 22.281803925408916]
+    },
+    "properties": {
+    "eng":"Kingston Street",
+    "chi":"京士頓街",
+    "category":"Merchant",
+    "company":"Jardine Matheson & Co.",
+    "description":"Named after Kingston, a North American city with trade relations with Jardine Matheson & Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1731856,22.2747407 ]
+    },
+    "properties": {
+    "eng":"McGregor Street",
+    "chi":"麥加力歌街",
+    "category":"Merchant",
+    "company":"McGregor & Co.",
+    "description":"Named after merchant firm McGregor & Co., which constructed a timber pier in Wanchai In 1863. It stretched 250 feet into the harbour and was 26 feet deep at low water, making it different from previous bamboo piers."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1273646,22.2813409 ]
+    },
+    "properties": {
+    "eng":"Forbes Street",
+    "chi":"科士街",
+    "category":"Merchant",
+    "company":"Russell & Co.",
+    "description":"Named after American businessman William Forbes, who headed Russell & Co. and the 11th HSBC chairman (1879-1880) and uncle of U.S. President Franklin Delano Roosevelt."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [114.1767910993922,  22.277437326336877]
+    },
+    "properties": {
+    "eng":"Mallory Street",
+    "chi":"茂蘿街",
+    "category":"Merchant",
+    "company":"",
+    "description":"Named after American timber merchant Lawrence Mallory, who was a former lieutenant in the US Navy. The area was used for timber and boat building, and later for warehouses, timber/coal storage, and other small industries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.154138,22.282157 ]
+    },
+    "properties": {
+    "eng":"Ezra's Lane",
+    "chi":"伊沙里",
+    "category":"Merchant",
+    "company":"",
+    "description":"Named after Shanghai-born Jewish businessman Edward Isaac Ezra. Amassing wealth through opium trade and real estate, he served as the managing director of Shanghai Hotels Ltd. and chairman of the Far Eastern Insurance Company."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1845059,22.2780462 ]
+    },
+    "properties": {
+    "eng":"Hysan Avenue",
+    "chi":"希慎道",
+    "category":"Merchant",
+    "company":"",
+    "description":"Named after Hong Kong businessman Lee Hysan, involved in the early 1900s opium trade, refinery, and land development. He purchased Jardine's Hill, west of Causeway Bay, for HK$3.8 million, which became Lee Garden."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1934912,22.28863768 ]
+    },
+    "properties": {
+    "eng":"Boat Street",
+    "chi":"艇街",
+    "category":"Others",
+    "company":"Hong Kong Yacht Club",
+    "description":"Named after the old Hong Kong Yacht Club site, originally the Victoria Regatta, which hosted its first race in 1849. The clubhouse moved to Kellett Island in 1938."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15527804710291,  22.28450537038734 ]
+    },
+    "properties": {
+    "eng":"Tit Hong Lane",
+    "chi":"鐵行里",
+    "category":"Others",
+    "company":"Peninsular and Oriental Steam Navigation Company",
+    "description":"Named after the Chinese name of Peninsular & Oriental Steam Navigation Company."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1706261,22.2682622 ]
+    },
+    "properties": {
+    "eng":"Dutch Lane",
+    "chi":"荷蘭徑",
+    "category":"Others",
+    "company":"Royal Interocean Lines",
+    "description":"Dutch Lane was the route Dutch people took from their houses to their work at Royal Interocean Lines, a Dutch shipping company."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2093252,22.2913787 ]
+    },
+    "properties": {
+    "eng":"Java Road",
+    "chi":"渣華道",
+    "category":"Others",
+    "company":"Royal Interocean Lines",
+    "description":"Named after the Indonesian island Java, reflecting its proximity to the Dutch shipping company office, Royal Interocean Lines, which had significant links with Java."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2161441,22.2837776 ]
+    },
+    "properties": {
+    "eng":"Kornhill",
+    "chi":"康山",
+    "category":"Others",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after German chemist Dr. Ferdinand Korn who was the first manager of Taikoo Sugar Refinery."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15767387945898, 22.28277186811051]
+    },
+    "properties": {
+    "eng":"World Wide Lane",
+    "chi":"環球里",
+    "category":"Others",
+    "company":"World Wide Shipping",
+    "description":"Named after Pao Yue-Kong's World Wide Shipping, which is one of the world's largest shipping company, with over 20 million tonnes of DWT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1703809,22.2754963 ]
+    },
+    "properties": {
+    "eng":"Ship Street",
+    "chi":"船街",
+    "category":"Others",
+    "company":"",
+    "description":"The area was once home to piers and dockyards."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1729412,22.2752619 ]
+    },
+    "properties": {
+    "eng":"Sam Pan Street",
+    "chi":"三板街",
+    "category":"Others",
+    "company":"",
+    "description":"The area was once home to piers and dockyards."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1698986,22.2753608 ]
+    },
+    "properties": {
+    "eng":"Schooner Street",
+    "chi":"捷船街",
+    "category":"Others",
+    "company":"",
+    "description":"The area was once home to piers and dockyards."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1883542,22.2794332 ]
+    },
+    "properties": {
+    "eng":"Shelter Street",
+    "chi":"信德街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the neighbouring typhoon shelter of Causeway Bay."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1918804,22.28364312 ]
+    },
+    "properties": {
+    "eng":"Yacht Street",
+    "chi":"帆船街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the neighbouring typhoon shelter of Causeway Bay."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1868931918317, 22.277772018868724 ]
+    },
+    "properties": {
+    "eng":"Haven Street",
+    "chi":"希雲街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the neighbouring typhoon shelter of Causeway Bay."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.125748,22.3530387 ]
+    },
+    "properties": {
+    "eng":"Container Port Road South",
+    "chi":"貨櫃碼頭南路",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the nearby Kwai Chung Container Terminals."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1256171,22.3546786 ]
+    },
+    "properties": {
+    "eng":"Container Port Road",
+    "chi":"貨櫃碼頭路",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the nearby Kwai Chung Container Terminals."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2112888,22.28760267 ]
+    },
+    "properties": {
+    "eng":"Tong Chong Street",
+    "chi":"糖廠街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Taikoo Sugar Refinery Compound which operated from 1884 to 1970s. It means ‘Sugar Refinery Street’ in Chinese. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17492200,22.31912800 ]
+    },
+    "properties": {
+    "eng":"San Francisco Path",
+    "chi":"舊金山徑",
+    "category":"Others",
+    "company":"",
+    "description":"Developed by Portuguese businessman Soares, it likely honours Macau's oldest garden, San Francisco Garden, designed by Soares' father. The Chinese name for San Francisco alludes to the gold rush, naming it 'Old Gold Mountain Path'."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17055910,22.29807405 ]
+    },
+    "properties": {
+    "eng":"Haiphong Road",
+    "chi":"海防道",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Hai Phong, a port city in Vietnam. French Indochina was Hong Kong's second main trade partner in 1919, with 16.9% of total trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17401548,22.29770005 ]
+    },
+    "properties": {
+    "eng":"Hanoi Road",
+    "chi":"河內道",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Hai Phong, a port city in Vietnam. French Indochina was Hong Kong's second main trade partner in 1919, with 16.9% of total trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.16973200,22.30710100 ]
+    },
+    "properties": {
+    "eng":"Saigon Street",
+    "chi":"西貢街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Hai Phong, a port city in Vietnam. French Indochina was Hong Kong's second main trade partner in 1919, with 16.9% of total trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.16424500,22.32659000 ]
+    },
+    "properties": {
+    "eng":"Tai Nan Street",
+    "chi":"大南街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the port city of Danang in Vietnam. The street was probably located near a pier where people used to travel to Danang."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.14925651334516,22.338080042837266 ]
+    },
+    "properties": {
+    "eng":"Tai Nan West Street",
+    "chi":"大南西街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after the port city of Danang in Vietnam. The street was probably located near a pier where people used to travel to Danang."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15673700,22.33384900 ]
+    },
+    "properties": {
+    "eng":"Tonkin Street",
+    "chi":"東京街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Vietnam's historical county, Tonkin, French Indochina was Hong Kong's second main trade partner in 1919, with 16.9% of total trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15319400,22.32971500 ]
+    },
+    "properties": {
+    "eng":"Tonkin Street West",
+    "chi":"東京街西",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Vietnam's historical county, Tonkin, French Indochina was Hong Kong's second main trade partner in 1919, with 16.9% of total trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1313726,22.28334137 ]
+    },
+    "properties": {
+    "eng":"Li Po Lung Road",
+    "chi":"李寶龍路",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Li Po Lung, the son of Cantonese businessman Li Sing, who co-founded a transfer house specialising in US trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1694822,22.27676337 ]
+    },
+    "properties": {
+    "eng":"Li Chit Street",
+    "chi":"李節街",
+    "category":"Others",
+    "company":"",
+    "description":"Named after Li Chit, the brother and business partner of Cantonese businessman Li Sing, who co-founded a transfer house specialising in US trade."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1877794,22.3123471 ]
+    },
+    "properties": {
+    "eng":"Bailey Street",
+    "chi":"庇利街",
+    "category":"Shipyard / Dock",
+    "company":"Bailey Shipyard",
+    "description":"Named after Irish businessman William Seybour Bailey, who founded Bailey Shipyard which operated from 1897 to 1949."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1703365,22.2775712 ]
+    },
+    "properties": {
+    "eng":"Fenwick Street",
+    "chi":"分域街",
+    "category":"Shipyard / Dock",
+    "company":"Fenwick & Co.",
+    "description":"Named after British enginner George Fenwick, who was the owner of shipyard in Wanchai. In 1884, Fenwick established Fenwick & Co, where he served as the Engineer and eventually became the Manager."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1848408,22.3064271 ]
+    },
+    "properties": {
+    "eng":"Whampoa Street",
+    "chi":"黃埔街",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after the nearby Hong Kong and Whampoa Dock which operated in the area from the 1860s to 1970s. It merged with Taikoo Dockyard in 1973 to form Hong Kong United Dockyard Limited, which was later relocated to Tsing Yi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1835127,22.3076955 ]
+    },
+    "properties": {
+    "eng":"Cooke Street",
+    "chi":"曲街",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after British engineer Robert Cooke. He worked at Sand's Slip and Cosmopolitan Dockyard before managing Whampoa's Kowloon Dockyard in 1880."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.189507,22.3068886 ]
+    },
+    "properties": {
+    "eng":"Dyer Avenue",
+    "chi":"戴亞街",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after British businessman Robert Morton Dyer. Born in Japan and educated in Scotland, he worked as a Naval Architect in Glasgow before becoming the Chief Manager of the Whampoa Dock Company in Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1867853,22.3110993 ]
+    },
+    "properties": {
+    "eng":"Gillies Avenue North",
+    "chi":"機利士北路",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after Scottish businessman David Gilles. He was the chief manager of the Hongkong and Whampoa Dock Co. and served as the President of the Institute of Engineers and Shipbuilders of Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1837584,22.306166 ]
+    },
+    "properties": {
+    "eng":"Gillies Avenue South",
+    "chi":"機利士南路",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after Scottish businessman David Gilles. He was the chief manager of the Hongkong and Whampoa Dock Co. and served as the President of the Institute of Engineers and Shipbuilders of Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15656652923853, 22.28273318781606 ]
+    },
+    "properties": {
+    "eng":"Douglas Lane",
+    "chi":"德忌利士巷",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after Scottish watchmaker turned shipbuilder and merchant Douglas Lapraik. He co-founded Hong Kong and Whampoa Dock Company. He was appointed as a member of the provisional founders committee of HSBC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15728657234065, 22.283248665457414]
+    },
+    "properties": {
+    "eng":"Douglas Street",
+    "chi":"德忌利士街",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after Scottish watchmaker turned shipbuilder and merchant Douglas Lapraik. He co-founded Hong Kong and Whampoa Dock Company. He was appointed as a member of the provisional founders committee of HSBC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1870724,22.3064006 ]
+    },
+    "properties": {
+    "eng":"Dock Street",
+    "chi":"船澳街",
+    "category":"Shipyard / Dock",
+    "company":"Hong Kong and Whampoa Dock",
+    "description":"Named after the nearby Hong Kong and Whampoa Dock which operated in the area from the 1860s to 1970s. It merged with Taikoo Dockyard in 1973 to form Hong Kong United Dockyard Limited, which was later relocated to Tsing Yi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1300491,22.2833222 ]
+    },
+    "properties": {
+    "eng":"Sands Street",
+    "chi":"山市街",
+    "category":"Shipyard / Dock",
+    "company":"Sand's Slip",
+    "description":"Named after American engineer and shipbuilder Capt George Underhill Sands, who captained a steamship in China and owned a Sai Wan shipyard in Hong Kong. He was superintendent for the HongKong, Canton & Macao Steam-Boat Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2177703,22.2861781 ]
+    },
+    "properties": {
+    "eng":"Taikoo Shing Road",
+    "chi":"太古城道",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after the nearby Taikoo Dockyard, which operated from 1907 to the 1970s. It later merged with Whampoa Dockyard to form Hong Kong United Dockyard and relocated to Tsing Yi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2184013,22.2873246 ]
+    },
+    "properties": {
+    "eng":"Taikoo Wan Road",
+    "chi":"太古灣道",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after the nearby Taikoo Dockyard, which operated from 1907 to the 1970s. It later merged with Whampoa Dockyard to form Hong Kong United Dockyard and relocated to Tsing Yi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2130301,22.28700128 ]
+    },
+    "properties": {
+    "eng":"Westlands Road",
+    "chi":"華蘭路",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Located within the Taikoo Sugar Refinery Compound, it was named after the west gate of the Taikoo Dockyard, which served as the main entrance for employees. In 1960, the name was changed to Westlands Road."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2104539,22.2883808 ]
+    },
+    "properties": {
+    "eng":"Finnie Street",
+    "chi":"芬尼街",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after Scottish engineer John Finnie. He was a manager of Taikoo Dockyard and Engineering Company in 1937. During World War II, Finnie was interned at Stanley. After the war, he played a crucial role in rebuilding and modernizing the dockyard. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.21444,22.28533 ]
+    },
+    "properties": {
+    "eng":"Shipyard Lane",
+    "chi":"船塢里",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after the nearby Taikoo Dockyard, which operated from 1907 to the 1970s. It later merged with Whampoa Dockyard to form Hong Kong United Dockyard and relocated to Tsing Yi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.213705,22.2819891 ]
+    },
+    "properties": {
+    "eng":"Greig Road",
+    "chi":"基利路",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after Scottish engineer Kenneth Edward Greig, who served as the third general manager of Taikoo Dockyard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.214521,22.2822462 ]
+    },
+    "properties": {
+    "eng":"Greig Crescent",
+    "chi":"基利坊",
+    "category":"Shipyard / Dock",
+    "company":"Taikoo Dockyard and Engineering Company",
+    "description":"Named after Scottish engineer Kenneth Edward Greig, who served as the third general manager of Taikoo Dockyard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1659655,22.3202598 ]
+    },
+    "properties": {
+    "eng":"Anchor Street",
+    "chi":"晏架街",
+    "category":"Shipyard / Dock",
+    "company":"",
+    "description":"The area surrounding Anchor Street was once a harbor where ships would dock. It was also in proximity to the now demolished Cosmopolitan Dockyard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1453434,22.2876258 ]
+    },
+    "properties": {
+    "eng":"Ko Shing Street",
+    "chi":"高陞街",
+    "category":"Transfer House",
+    "company":"Wo Hing Hong",
+    "description":"Named after Ko Shing Theatre, ownded by Cantonese businessman Li Sing, who co-founded a transfer house specialising in US trade. At his death, his estates were valued thrice the colonial government's annual revenue. He also founded Tung Wah Hospital and Po Leung Kuk."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.145243,22.2872881 ]
+    },
+    "properties": {
+    "eng":"Li Sing Street",
+    "chi":"李陞街",
+    "category":"Transfer House",
+    "company":"Wo Hing Hong",
+    "description":"Named after Cantonese businessman Li Sing, who co-founded a transfer house specialising in US trade. At his death, his estates were valued thrice the colonial government's annual revenue. He also founded Tung Wah Hospital and Po Leung Kuk."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.15638870404362, 22.282811454365373]
+    },
+    "properties": {
+    "eng":"Li Yuen Street East",
+    "chi":"利源東街",
+    "category":"Transfer House",
+    "company":"",
+    "description":"Named after the Toishan businessman Lee Yuk Tong, who operated a transfer house during the Gold Rush and employed over 400 people. He acquired a significant portion of the newly reclaimed land in Central and developed it into residential and commercial buildings."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  114.15621206370413, 22.283134188281743 ]
+    },
+    "properties": {
+    "eng":"Li Yuen Street West",
+    "chi":"利源西街",
+    "category":"Transfer House",
+    "company":"",
+    "description":"Named after the Toishan businessman Lee Yuk Tong, who operated a transfer house during the Gold Rush and employed over 400 people. He acquired a significant portion of the newly reclaimed land in Central and developed it into residential and commercial buildings."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1657864,22.3313075 ]
+    },
+    "properties": {
+    "eng":"Yiu Tung Street",
+    "chi":"耀東街",
+    "category":"Transfer House",
+    "company":"",
+    "description":"Named after businessman Wong Yiu Tung, the 'Sham Shui Po Emperor', who built his fortune in a transfer house before diversifying his investments in Sham Shui Po and advocating for free education for disadvantaged children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1838628,22.2773625 ]
+    },
+    "properties": {
+    "eng":"Leighton Lane",
+    "chi":"禮頓里",
+    "category":"Wharf / Godown",
+    "company":"F. Leighton & Co.",
+    "description":"Named after Henry John Leighton, a merchant and senior partner of Ferguson, Leighton & Co., which had constructed a godown nearby."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.183344,22.2776725 ]
+    },
+    "properties": {
+    "eng":"Leighton Road",
+    "chi":"禮頓道",
+    "category":"Wharf / Godown",
+    "company":"F. Leighton & Co.",
+    "description":"Named after Henry John Leighton, a merchant and senior partner of Ferguson, Leighton & Co., which had constructed a godown nearby."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.127355,22.28313699 ]
+    },
+    "properties": {
+    "eng":"Catchick Street",
+    "chi":"吉席街",
+    "category":"Wharf / Godown",
+    "company":"Kowloon Wharf and Godown",
+    "description":"Named after British-Indian businessman of Armenian descent Sir Catchick Paul Chater. Chater established Kowloon Wharf and Godown, and helped establish Dairy Farm and Hongkong Land. He was also a generous donor to the University of Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1580813,22.2819556 ]
+    },
+    "properties": {
+    "eng":"Chater Road",
+    "chi":"遮打道",
+    "category":"Wharf / Godown",
+    "company":"Kowloon Wharf and Godown",
+    "description":"Named after British-Indian businessman of Armenian descent Sir Catchick Paul Chater. Chater established Kowloon Wharf and Godown, and helped establish Dairy Farm and Hongkong Land. He was also a generous donor to the University of Hong Kong."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1982203,22.2924083 ]
+    },
+    "properties": {
+    "eng":"Wharf Road",
+    "chi":"和富道",
+    "category":"Wharf / Godown",
+    "company":"North Point Wharves",
+    "description":"Formerly known as North Point Wharves, the site was established in 1949 and later sold to Hutchison Whampoa in the late 1970s. The wharves were demolished in the 1980s and transformed into a residential complex."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1412216,22.2872186 ]
+    },
+    "properties": {
+    "eng":"Shek Chan Lane",
+    "chi":"石棧里",
+    "category":"Wharf / Godown",
+    "company":"",
+    "description":"Formerly known as \"Stone Godown Lane\" and was renamed in 1967. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1611985,22.28063404 ]
+    },
+    "properties": {
+    "eng":"Chater Garden",
+    "chi":"遮打花園",
+    "category":"Wharf / Godown",
+    "company":"Kowloon Wharf and Godown",
+    "description":"Named after British-Indian businessman of Armenian descent Sir Catchick Paul Chater. Chater established Kowloon Wharf and Godown, and helped establish Dairy Farm and Hongkong Land. He was also a generous donor to the University of Hong Kong."
+    }
+  }
+]
+}
